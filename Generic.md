@@ -1,0 +1,9 @@
+- Dogs are the best creation of [[God]]
+- Devil made humanity
+- Humanity loved dogs
+- Dogs hated the heat
+- Humanity made ice cream to cool dogs down
+- [[God]] say "nu uh" and took the ice cream away
+- Dogs did not like this and went to war with God
+- [[God]] being [[God]], won, and banished the dogs to the [[Country of YES]]
+- See [[Church of Dog]]
