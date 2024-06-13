@@ -1,0 +1,1 @@
+He faked his death, but lost part of his powers in the process.
