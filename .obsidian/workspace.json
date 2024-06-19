@@ -65,12 +65,8 @@
             "id": "6737d559c7105d7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -139,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Timeline.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -202,6 +194,8 @@
   },
   "active": "6737d559c7105d7d",
   "lastOpenFiles": [
+    "Groups/Church of Dog/Black Dogs/Members/Z0De_.md",
+    "Timeline.md",
     "Groups/Church of Dog/Black Dogs/Operations/Crack, Icecream and Bork.We shall go to war.md",
     "Groups/Church of Dog/Black Dogs/Black Dogs.md",
     "Groups/Church of Dog/Black Dogs/Operations",
@@ -211,8 +205,6 @@
     "Groups/The Rat Association (TRA)/Incredible.md",
     "Groups/New Neco Republic/New Neco Republic.md",
     "Groups/Church of Dog/Black Dogs/Members/Shiba.md",
-    "Timeline.md",
-    "Groups/Church of Dog/Black Dogs/Members/Z0De_.md",
     "Groups/Church of Dog/Black Dogs/Members/Parasitic.md",
     "Groups/The Rat Association (TRA)/The Rat Association (TRA).md",
     "Groups/Church of Dog/Black Dogs/Members/Halga.md",
