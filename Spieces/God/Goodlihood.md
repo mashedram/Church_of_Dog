@@ -1,5 +1,3 @@
-Absolute prick
-
 Is very strong, but not unkillable.
 No, world doesn't collapse when God dies, his power goes too the one who kills him.
 

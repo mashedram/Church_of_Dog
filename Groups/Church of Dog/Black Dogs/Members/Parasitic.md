@@ -1,0 +1,3 @@
+# Backstory:
+NOTES:
+- Hates choosing

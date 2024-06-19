@@ -6,9 +6,9 @@ Born as a result from an experiment gone right. He was the first [[Demi-Dogs]] i
 
 Being 'born' at the young age of eighteen, he immediately (and technically forcefully) joined the [[Black Dogs]], and quickly became a well established member of the team.
 
-Under [[164xx]]'s command, he helped the team accomplish many tasks ranging from assault on foreign countries, to free them from the [[Followers of God]]'s grasp, or sometimes even peaceful expeditions to spread the love for [[Ice Cream]] and [[Dogs]].
+Under [[164xx]]'s command, he helped the team accomplish many tasks ranging from assault on foreign countries, to free them from the [[The Rat Association (TRA)]]'s grasp, or sometimes even peaceful expeditions to spread the love for [[Ice Cream]] and [[Dogs]].
 
-He forged his own weapon: A massive fridge. Capable of transforming into an extremely large bastard sword for both carrying and combat. This was the masterpiece of his massivly, and rapidly expanding arsenal of weaponry, and he always caries the weapon on his back.
+He forged his own weapon: A massive fridge. Capable of transforming into an extremely large bastard sword for both carrying and combat. This was the masterpiece of his massively, and rapidly expanding arsenal of weaponry, and he always caries the weapon on his back.
 
 In 17 ACY, he took command of the [[Black Dogs]] from [[164xx]], and turned the [[Black Dogs]] into a partial PMC to fund the [[Church of Dog]]s expansion into the mainland.
 
