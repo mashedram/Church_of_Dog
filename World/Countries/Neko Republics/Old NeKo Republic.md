@@ -1,0 +1,1 @@
+Fell after the [[NeKo-Dogian War]], and was a catalist for the [[Old God]] to keep control over the [[Country of YES]]
