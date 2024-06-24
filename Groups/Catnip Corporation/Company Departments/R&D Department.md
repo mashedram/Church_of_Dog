@@ -1,0 +1,1 @@
+The [[R&D Department]] serves the purpose of creating and adopting new inventions into the [[Old NeKo Republic]]. This department also handles I.T.

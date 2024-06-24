@@ -12,7 +12,8 @@ He forged his own weapon: A massive fridge. Capable of transforming into an extr
 
 In 17 ACY, he took command of the [[Black Dogs]] from [[164xx]], and turned the [[Black Dogs]] into a partial PMC to fund the [[Church of Dog]]s expansion into the mainland.
 
-
+ROLE: 
+- Leader
 
 NOTES:
 - Is the first of the [[Demi-Dogs]]

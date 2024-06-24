@@ -1,0 +1,1 @@
+Formed after the fall of the [[Old NeKo Republic]] by the [[Catnip Corporation]], date of formation is undetermined.

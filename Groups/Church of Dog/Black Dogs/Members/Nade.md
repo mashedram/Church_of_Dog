@@ -1,4 +1,8 @@
 # Backstory:
+ROLE:
+- Scout/Designated Pilot
+
+NOTES:
 - Gay
 - German
 - Bird
