@@ -8,61 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dea9ef59cdc8ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Church of Dog/Black Dogs/Operations/Crack, Icecream and Bork.We shall go to war.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f771c8fb3ae7c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spieces/God/Bad God.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0423b6b0ad87a4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spieces/God/Good God.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45598a7b74397995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Church of Dog/Church of Dog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cac842bf1be47c64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6737d559c7105d7d",
+            "id": "096e24d72dc230db",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,46 +138,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6737d559c7105d7d",
+  "active": "096e24d72dc230db",
   "lastOpenFiles": [
-    "Groups/Church of Dog/Black Dogs/Members/Z0De_.md",
-    "Timeline.md",
     "Groups/Church of Dog/Black Dogs/Operations/Crack, Icecream and Bork.We shall go to war.md",
-    "Groups/Church of Dog/Black Dogs/Black Dogs.md",
-    "Groups/Church of Dog/Black Dogs/Operations",
-    "Spieces/Cats.md",
-    "Groups/Church of Dog/Council of Dog.md",
-    "Groups/Church of Dog/Church of Dog.md",
-    "Groups/The Rat Association (TRA)/Incredible.md",
-    "Groups/New Neco Republic/New Neco Republic.md",
+    "Groups/Church of Dog/Black Dogs/Concepts/Pilot Licence.md",
+    "Groups/Church of Dog/Black Dogs/Members/Z0De_.md",
     "Groups/Church of Dog/Black Dogs/Members/Shiba.md",
     "Groups/Church of Dog/Black Dogs/Members/Parasitic.md",
-    "Groups/The Rat Association (TRA)/The Rat Association (TRA).md",
-    "Groups/Church of Dog/Black Dogs/Members/Halga.md",
     "Groups/Church of Dog/Black Dogs/Members/Nade.md",
-    "Concepts/Ice Cream.md",
-    "Groups/New Neco Republic",
-    "Groups/Untitled.canvas",
-    "Concepts",
-    "World/Countries",
-    "World",
-    "Generic.md",
-    "Spieces/God/Bad God.md",
-    "Spieces/God/Good God.md",
-    "Spieces/God/Goodlihood.md",
-    "Groups/Church of Dog/Black Dogs/Members/164xx.md",
+    "Groups/Church of Dog/Black Dogs/Members/Halga.md",
     "Groups/Church of Dog/Black Dogs/Members/Biggus.md",
+    "Groups/Church of Dog/Black Dogs/Members/164xx.md",
     "Groups/Church of Dog/Black Dogs/PROJECT-INFUSION.md",
-    "Groups/Church of Dog/Black Dogs/Concepts/Pilot Licence.md",
+    "Groups/Church of Dog/Black Dogs/Operations",
+    "Groups/Church of Dog/Black Dogs/Concepts",
+    "Groups/Church of Dog/Black Dogs/Members",
+    "Groups/Church of Dog/Black Dogs/Black Dogs.md",
+    "Groups/Church of Dog/Black Dogs",
+    "Spieces/God/Goodlihood.md",
+    "Groups/New Neco Republic/New Neco Republic.md",
+    "Groups/New Neco Republic",
+    "Timeline.md",
+    "Pasted image 20240624221153.png",
+    "Pasted image 20240619205513.png",
+    "Pasted image 20240624220659.png",
+    "Pasted image 20240619205459.png",
+    "Generic.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Z0De_.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Concepts/Pilot Licence.md",
+    "Groups/Catnip Corporation/Employees/Cat the Rat.md",
+    "DND IDEAS.md",
+    "Groups/Catnip Corporation/Employees/Cat the Rat 1.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Enigma.md",
+    "Old God.md",
+    "World/Countries/Neko Republics/Old NeKo Republic.md",
+    "World/Countries/Neko Republics/New NeKo Republic.md",
     "World/Countries/Country of YES.md",
     "Spieces/Dogs/Sachred Dogs.md",
-    "Pasted image 20240619205513.png",
-    "Pasted image 20240619205459.png",
-    "Groups/Church of Dog/Black Dogs/Concepts",
-    "Spieces/Humans.md",
-    "Timeline",
-    "Groups/Church of Dog/EXTRA",
-    "Spieces/God",
-    "Spieces/Dogs/Untitled"
+    "Groups/Church of Dog/Branches",
+    "World/Countries/International Documents",
+    "World/Countries/Major Events",
+    "World/Countries/Neko Republics",
+    "Groups/Catnip Corporation/Employees",
+    "Groups/Untitled.canvas"
   ]
 }
