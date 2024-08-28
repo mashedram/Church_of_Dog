@@ -1,0 +1,3 @@
+# BACKSTORY
+NOTES:
+- Basic NPC

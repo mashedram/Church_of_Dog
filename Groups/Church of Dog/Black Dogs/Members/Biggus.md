@@ -1,3 +1,0 @@
-## Backstory:
-NOTES: 
-- Always depressed

@@ -1,0 +1,1 @@
+Night Vision Devices were invented by [[Dogs]] from help from [[Good God]] as he did not give them the ability to see in the dark. These devices were reverse engineered by the [[Catnip Corporation]] for use in night time operations.

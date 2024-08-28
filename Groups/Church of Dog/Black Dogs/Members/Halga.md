@@ -1,3 +1,0 @@
-# BACKSTORY
-NOTES:
-- Commonly "misfires"
