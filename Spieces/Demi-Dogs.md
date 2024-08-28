@@ -7,3 +7,4 @@ Some charasteristics:
 - Have an extremely high regenerative ability, and can last much longer out in battle.
 - Slows down the aging process.
 - They have bigger canines
+- Scared of bees genetically
