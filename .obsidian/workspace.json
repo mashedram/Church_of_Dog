@@ -13,49 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Church of Dog/Black Dogs/PROJECT-INFUSION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0423b6b0ad87a4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spieces/God/Good God.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45598a7b74397995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Church of Dog/Church of Dog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "70e6465783b7b251",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0dea9ef59cdc8ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Church of Dog/Black Dogs/Members/Shiba.md",
+                "file": "Groups/Catnip Corporation/Employees/Cat the Rat.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Church of Dog/Black Dogs/PROJECT-INFUSION.md",
+                "file": "Groups/Catnip Corporation/Employees/Cat the Rat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Church of Dog/Black Dogs/PROJECT-INFUSION.md",
+                "file": "Groups/Catnip Corporation/Employees/Cat the Rat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Church of Dog/Black Dogs/PROJECT-INFUSION.md"
+                "file": "Groups/Catnip Corporation/Employees/Cat the Rat.md"
               }
             }
           }
@@ -188,45 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f771c8fb3ae7c5e",
+  "active": "db793d2f3ff5b463",
   "lastOpenFiles": [
-    "Groups/Church of Dog/Council of Dog.md",
-    "Groups/Church of Dog/Church of Dog.md",
-    "Concepts/Firearms.md",
-    "Groups/Church of Dog/Black Dogs/Members/Nade.md",
+    "Groups/Catnip Corporation/Employees/Cat the Rat 1.md",
     "Groups/Catnip Corporation/Employees/Cat the Rat.md",
-    "Groups/Catnip Corporation/Employees/James.md",
-    "Groups/Church of Dog/Black Dogs/Members/Halga.md",
-    "Groups/Church of Dog/Black Dogs/Members/Mike (SHADOW).md",
-    "Groups/Church of Dog/Black Dogs/Members/Parasitic.md",
-    "Groups/Church of Dog/Black Dogs/Members/Shiba.md",
-    "Groups/Church of Dog/Black Dogs/Members/Z0De_.md",
-    "Groups/Church of Dog/Black Dogs/Members/164xx.md",
-    "Groups/Church of Dog/Black Dogs/Members/Biggus.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Enigma.md",
     "Timeline.md",
-    "Groups/Church of Dog/Black Dogs/Operations/Crack, Icecream and Bork. We shall go to war.md",
     "Generic.md",
-    "Concepts/Night Vision Devices.md",
-    "World/Countries/International Documents/Churchill Agreement.md",
-    "World/Countries/Major Events/Neko-Dogian War.md",
-    "World/Countries/International Documents",
+    "Old God.md",
     "World/Countries/Neko Republics/Old NeKo Republic.md",
-    "World/Countries/Major Events",
     "World/Countries/Neko Republics/New NeKo Republic.md",
-    "Spieces/Cats.md",
+    "World/Countries/Country of YES.md",
+    "Spieces/Dogs/Sachred Dogs.md",
+    "Spieces/Dogs/Dogs.md",
+    "Groups/The Rat Association (TRA)/The Rat Association (TRA).md",
+    "Groups/The Rat Association (TRA)/Incredible.md",
+    "Groups/Church of Dog/Council of Dog.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Black Dogs.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/PROJECT-INFUSION.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Operations/Crack, Icecream and Bork. We shall go to war.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Shiba.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Halga.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Karlis.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/164xx.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Biggus.md",
+    "Spieces/Demi-Dogs.md",
+    "Pasted image 20240624221153.png",
+    "Pasted image 20240624220659.png",
+    "Concepts/Ice Cream.md",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Members/Z0De_.md",
+    "Groups/Church of Dog/Branches",
+    "Groups/Church of Dog/Church of Dog.md",
+    "World/Countries/International Documents",
+    "World/Countries/Major Events",
     "World/Countries/Neko Republics",
     "Groups/Catnip Corporation/Employees",
-    "Groups/Catnip Corporation/Company Departments/R&D Department.md",
-    "Groups/Catnip Corporation/Company Departments/GS Department.md",
-    "Groups/Catnip Corporation/Company Departments/Foxtrot Department.md",
-    "Groups/Catnip Corporation/Company Departments/CR Department.md",
     "Groups/Catnip Corporation/Company Departments",
     "Groups/Catnip Corporation",
-    "Groups/Church of Dog/Black Dogs/Operations",
+    "Groups/Church of Dog/Branches/Black Dogs (MILITARY)/Operations",
     "Groups/New Neco Republic",
     "Groups/Untitled.canvas",
     "Concepts",
-    "World/Countries",
     "Pasted image 20240619205513.png",
     "Pasted image 20240619205459.png"
   ]
