@@ -10,7 +10,7 @@
  6 ACY: [[Dogs]] fought [[Bad God]] through proxy of the [[Cats]] in the [[NeKo-Dogian War]] as revenge, but came to peace due to [[Cats]] wishing to be free from the [[Bad God]]
  7 ACY: [[Black Dogs]] was formed
  7 ACY: [[164xx]] joined the [[Black Dogs]] and became it's first leader
- 8 ACY: [[Z0De_]] joined the [[Black Dogs]] on recommendation of [[164xx]]
+ 8 ACY: [[Mash]] joined the [[Black Dogs]] on recommendation of [[164xx]]
  9 ACY: [[PROJECT-INFUSION]] was started
  11 ACY: [[164xx]] got caught in a fire, burning the right side of his face.
  12 ACY: The first [[Demi-Dogs]] has been made in the lab of [[PROJECT-INFUSION]], [[Shiba]] was the result
