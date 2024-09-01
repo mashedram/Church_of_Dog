@@ -1,3 +1,5 @@
+## Formal Data:
+> Think of companies, relations, ranks, etc.
 ## Characteristics:
 > Basically how your character looks, acts, etc.
 
@@ -30,4 +32,4 @@
 
 - TECHNICAL: 0 // More orientated towards engineering of traps and vehicles.
 
-- SPECIALISATION: 0 // A skill chosen by the creator of the character, allowing for a more unique team composition.
+- SPECIALISATION // A skill chosen by the creator of the character, allowing for a more unique team composition. Automatically ten points and used where applicable.
