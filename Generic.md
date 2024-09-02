@@ -1,5 +1,5 @@
 - Dogs are the best creation of [[Godhood]]
-- [[Good God]] made [[Humans]] to give [[Dogs]] someone to befriend.
+- [[Seraphos]] made [[Humans]] to give [[Dogs]] someone to befriend.
 - Humanity loved dogs
 - Dogs hated the heat
 - Humanity made ice cream to cool dogs down

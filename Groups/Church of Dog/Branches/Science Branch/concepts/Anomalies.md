@@ -1,0 +1,1 @@
+TODO: Anomalies are mostly there to give a bit of extra spice to RP, and add a purpose to the [[Science Branch]]
