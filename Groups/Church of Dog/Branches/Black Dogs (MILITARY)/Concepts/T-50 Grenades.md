@@ -1,0 +1,1 @@
+TODO:  It's a normal grenade, but it has a special charge which, when detonated, creates a vacuum in a small point, pulling in all gas-based matter in a 10 meter radius, and spitting it out as hot, compressed shrapnel in all directions with a range of up to 25 meters, although the actual range is often lower.

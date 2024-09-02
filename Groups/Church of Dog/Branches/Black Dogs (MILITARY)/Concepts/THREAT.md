@@ -1,5 +1,3 @@
-# CONCEPT: Just had the idea - Mash
-
 THREAT is an AI powered system, capable of using satellites, drones and other machinery as a surveillance network.
 
 Designed from the ground up to bring direct combat feedback on the active situation on nearby combatives, it applies a complex system of predictions to accurately portray what the enemies next move may be.

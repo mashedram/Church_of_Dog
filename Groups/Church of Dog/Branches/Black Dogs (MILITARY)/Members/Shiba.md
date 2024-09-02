@@ -2,7 +2,7 @@ Nicknames:
 - **Fridge-master**
 
 # Backstory\
-Born as a result from an experiment gone right. He was the first [[Demi-Dogs]] in existence. Due to his experimental nature, he has a direct mental connection with the dead [[Good God]], who is currently as a second Soul in his mind. 
+Born as a result from an experiment gone right. He was the first [[Demi-Dogs]] in existence. Due to his experimental nature, he has a direct mental connection with the dead [[Seraphos]], who is currently as a second Soul in his mind. 
 
 Being 'born' at the young age of eighteen, he immediately (and technically forcefully) joined the [[Black Dogs]], and quickly became a well established member of the team.
 
@@ -22,8 +22,8 @@ NOTES:
   Powered by a black hole to collapse the inside contents without damaging them.
   (TODO: REWRITE THIS)
 - Food nerd, can smell poison on whatever the food is.
-- Due to being the first result of [[PROJECT-INFUSION]], and the experiment going differently than expected. His Soul is in direct connection to the [[Good God]], who can talk to him, listen to his ears and see through his eyes. Next to this, [[Shiba]] can use the [[Good God]]'s remaining power for his own doings.
-- Is the only [[Demi-Dogs]] that knows the recipe to ice cream, being directly told by the [[Good God]].
+- Due to being the first result of [[PROJECT-INFUSION]], and the experiment going differently than expected. His Soul is in direct connection to the [[Seraphos]], who can talk to him, listen to his ears and see through his eyes. Next to this, [[Shiba]] can use the [[Seraphos]]'s remaining power for his own doings.
+- Is the only [[Demi-Dogs]] that knows the recipe to ice cream, being directly told by the [[Seraphos]].
 - Accidentally ordered an air strike onto his team.
 - Incapable of mentally processing large teams.
 - Has driving sickness

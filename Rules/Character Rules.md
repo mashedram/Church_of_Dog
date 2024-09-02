@@ -6,6 +6,7 @@
 - You can't specialize in multiple fields at the same time. You can't be a god at CQB and sniping at the same time. You can however, still have skills in fields not your specialization.
 - Make your backstory believable, no "born in distant galaxy"
 - Keep it unique, try not copying or having a too similar backstory as someone else (exceptions being, for example: Childhood friend, related, etc)
+- Every backstory must reference at least once to the moment in the timeline the good god died.
   \
 
 # Character deaths:
