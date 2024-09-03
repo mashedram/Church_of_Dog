@@ -46,15 +46,15 @@ Currently actively working on [[THREAT]] with a small team of two other scientis
 - Dexterity: 2
 - Intelligence: 8
 - Wisdom: 4 // Life experience
-- Charisma: 0
+- Charisma: 3
 
-- CQB (MELEE): 1
-- CQB (FIREARMS): 2
+- CQB (MELEE): 0
+- CQB (FIREARMS): 0
 - MID RANGE (FIREARMS): -4
 - LONG RANGE (FIREARMS): -6
 
 - TECHNICAL: 7 // More orientated towards engineering of traps and vehicles.
-
+3
 - SPECIALISATION // A skill chosen by the creator of the character, allowing for a more unique team composition.
 
 
