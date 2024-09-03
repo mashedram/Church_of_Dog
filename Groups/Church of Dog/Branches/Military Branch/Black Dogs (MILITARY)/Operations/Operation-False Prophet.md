@@ -1,0 +1,7 @@
+Full operation log [[AAR-False Prophet]]
+
+Operation False Prophet was a huge failure not only from the [[Mastiff logistics]] side as they never dealt with similar scenario but mainly [[Intelligence agency]] that almost costed us entire [[Black Dogs]] unit.
+After interrogating (CLASIFIED) [[Intelligence agency]] reported about enemy regional leader [REDACTED] being in the area, end eliminating him would massively improve control over the region, and would earn a lot of praises to whom help locate him as we never got close to locating him let alone pin pointing his location.
+[[Gregory Wilhelm]] , member of interrogation team and a nominee for [[Intelligence agency]] leader could not passed the opportunity for his own gain, he broke multiple protocols and threaten other members with a sidearm to keep quiet. He pushed a report about [REDACTED] to hi-com, it should have raised red flags how fast it was made and vague in some parts the report was but due to the fact [[Black Dogs]] where in the area we did not wanted to miss a shot at him.
+By the time we realise what happend it was to late, contact with [[Black Dogs]] unit was last due to a ambush planted and coordinated by [[The Rat Association (TRA)]]. In a full chaos [[Mastiff logistics]] had to scramble QRF, Coms, live feed and more to rescue [[Black Dogs]] 
+ 
