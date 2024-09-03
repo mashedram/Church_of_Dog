@@ -1,9 +1,0 @@
-- Dogs are the best creation of [[Godhood]]
-- [[Seraphos]] made [[Humans]] to give [[Dogs]] someone to befriend.
-- Humanity loved dogs
-- Dogs hated the heat
-- Humanity made ice cream to cool dogs down
-- [[Godhood]] say "nu uh" and took the ice cream away
-- Dogs did not like this and went to war with God
-- [[Godhood]] being [[Godhood]], won, and banished the dogs to the [[Country of YES]]
-- See [[Church of Dog]]
