@@ -1,0 +1,1 @@
+TODO: Rescue from [[The Rat Association (TRA)]], was experimented and tortured upon with the prototype amnestic she made to wipe her memory.
