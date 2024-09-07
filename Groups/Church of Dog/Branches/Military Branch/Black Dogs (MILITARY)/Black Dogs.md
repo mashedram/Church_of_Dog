@@ -13,4 +13,4 @@ NOTES:
 - Team refuses to use any squad marking colour other than orange
 - Chants: "IN DOG WE TRUST!" during missions, seeing the teams goal is to spread knowledge of the old order, aka [[Church of Dog]]
 
-![[Pasted image 20240624221153.png]]
+![[BlackDogs vibing 1.png]]

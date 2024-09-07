@@ -10,4 +10,4 @@ NOTES:
 - Has a Crow friend
 
 
-![[Pasted image 20240619205459.png]]![[Pasted image 20240619205513.png]]
+![[Byrd in trench coat.png]]![[Better byrds in a trench coat.png]]
