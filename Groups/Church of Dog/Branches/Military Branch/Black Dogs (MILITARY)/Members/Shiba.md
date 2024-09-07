@@ -3,14 +3,13 @@ Nicknames:
 ## Formal Data:
 Name: Shiba
 Age: Technically 9, Practically 27
-Physical Appearance: Scars across his entire body, mainly on his torso, farther from it smaller and less visible scaring become. Brown hair full beard, blood red Irises with the eyes being black not white
 
 Member of: [[Church of Dog]]
 Position: Leader of [[Black Dogs]]
 Rank: #CDL5 
 
 ## Characteristics:
-
+Scars across his entire body, mainly on his torso, farther from it smaller and less visible scaring become. Brown hair full beard, blood red Irises with the eyes being black not white
 ## Backstory\
 Born as a result from an experiment gone right. He was the first [[Demi-Dogs]] in existence. Due to his experimental nature, he has a direct mental connection with the dead [[Seraphos]], who is currently as a second Soul in his mind. 
 
@@ -40,26 +39,29 @@ These days every one would say he is colder than when he was 'Born', due to the 
 - Incapable of mentally processing large teams.
 - Has light driving sickness making him drowsy/sleepy
 
-## ------------------DND------------------
+# DND
+## Skills:
 
-### EQ
-Ak-103 (aka heavy caliber high recoil)
+- Strength: 6
+- Dexterity: 6
+- Intelligence: 6
+- Wisdom: 6
+- Charisma: 6
 
-### Stats
-- Strength: 6+2
-- Dexterity: 2+2
-- Intelligence: 2+2
-- Wisdom: 5+2 // Life experience
-- Charisma: 0+2
+## Gear
 
-- CQB (MELEE): 6+2 // Proficiency in melee (Strength boost damage output of this)
-- CQB (FIREARMS): 2+2
-- MID RANGE (FIREARMS): 4+2
-- LONG RANGE (FIREARMS): 1+2
-- TECHNICAL: 2+2 
-### Perks
-Godhood, Seraphos gift : +2 all thats
+- Starter primary, with basic attachment.
+- Starter secondary
+- Starter [[Vest, Belts and Pouches]]
+- Starter [[Backpacks]]
+- Starter [[Armor Plates]]
 
+## Stats
+> Perks are defined by the DM before the game. Please do not fill them out on your own.
 
-Godhood, Malphoros curse : when triggerd roll a d20 to see how bad the vision is (1-8= decaing-3 to all throws 9-16= decaing-5 to all throws, skip next turn, 17-19= decaing-8 to all throws, skip 2 turns, 16-20 unconn till end of combat)
-decaing mean every turn efect gets smaller
+Speed: 25 + bonus + dexterity * 2
+Health: 75 + bonus + strength * 5
+
+Perks:
+- His red-glowing eyes gives him a guaranteed intimidation factor on people with a DC lower than his strength stat
+- These same eyes, however, can cause him to completely tunnel vision onto the target in his mind, automatically failing perception checks from all other sources.

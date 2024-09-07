@@ -11,11 +11,12 @@ Vests only take front and back plates. If the attack is from the side and the ve
 ### Medium vest
 - Takes plates (front, back)
 - Slots for 5 pouches
-- Weight: 5kg
+- Weight: 4kg
 ### Heavy vest
 - Takes plates (front, back) and has side armor
+- Reduces Slight of Hand (-2)
 - Slots for 3 pouches
-- Weight: 10kg
+- Weight: 6kg
 
 # Pouches
 #BASIC
@@ -25,7 +26,7 @@ Vests only take front and back plates. If the attack is from the side and the ve
 ### Grenade pouch
 - Adds a slot for 1 grenade
 ## Generic pouch
-- Adds 4 volume
+- Adds 2 volume
 
 # Belts
-Belts allow the user to carry 3 pouches however they wish.
+Belts allow the user to carry 3 pouches however they wish, always equipped. Has a holster as well.

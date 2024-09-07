@@ -1,20 +1,24 @@
-Backpacks extend your carrying capacity, in exchange for reduced accessibilty.
+Backpacks extend your carrying capacity, in exchange for reduced accessibility.
 
 # Basic types
 #BASIC 
 ## Small backpack
-- Volume: 20
-- Weight: 5kg
-
+- Extends Volume: 20
+- Volume: 5
+- Weight: 2kg
 ## Medium backpack
-- Volume: 35
-- Weight: 10kg
-- Reduced dexterity (-2)
-## Large backpack
-- Volume: 50
-- Weight: 20kg
-- Reduced dexterity (-4)
-## Medical backpack
+- Extends Volume: 35
 - Volume: 10
-- Weight: 5kg
+- Weight: 4kg
+- Reduced athletics (-1)
+## Large backpack
+- Extends Volume: 50
+- Volume: 15
+- Weight: 6kg
+- Reduced athletics (-2)
+## Medical backpack
+- Extends Volume: 10
+- Volume: 5
+- Weight: 2kg
 - Does not use a turn to grab items from.
+- Cuts medical item weight and volume in half

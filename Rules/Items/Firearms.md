@@ -1,20 +1,46 @@
 When a firearm is fired during a turn, all movement remaining in that turn gets cancelled.
 
+# Magazines
+Every magazine (with exceptions) has the following stats:
+Weight: 1kg
+Volume: 5
+
 # Weapon penetration
 Every bullet type has next to some special ability (Think of incendiary) also a penetration value.
 
 # Basic types:
 #BASIC
-### Pistol:
-- Reduced accuracy (-4) at 15- meters
+### Pistol
+Weight: 3kg
+Volume: 5
+- Reduced accuracy (-4) at 15+ meters
+- Increased Slight of Hand (+2)
 - Default penetration: 7
-## Assault Rifles:
+### SMG
+Weight: 4kg
+Volume: 15
+- Reduced accuracy (-2) at 25+ meters
+- Increased Slight of Hand (+2)
+- Can be equipped as a secondary, but removes the switch-bonus.
+- Default penetration: 7
+## Assault Rifles
+Weight: 5kg
+Volume: 20
 - Default, no buffs nor debuffs
 - Default penetration: 10
 ## DMR
+Weight: 7kg
+Volume: 25
 - Increased accuracy (+2) at 100+ meters
 - Default penetration: 13
-# Sniper Rifles
+### Tube-loaded Shotguns
+Weight: 6kg
+Volume: 25
+- Default penetration: 5
+- Can reload 2 shells during movement
+### Sniper Rifles
+Weight: 8kg
+Volume: 30
 - Increased accuracy (+4) at 100+ meters
 - Requires an Sleight of Hand check of 12 on quick movements
 - Cannot be used for CQB
@@ -25,7 +51,7 @@ Every bullet type has next to some special ability (Think of incendiary) also a 
 ## Short Barrel:
 - Reduced accuracy (-4) at 45+ meters
 - Increased accuracy (+4) at 15- meters
-- Moving in tight spaces becomes possible with a rifle.
+- Moving in tight spaces becomes possible with a longer weapon.
 ## Long Barrel:
 - Reduced accuracy (-4) at -45 meters
 - Increased accuracy (+4) at 60+ meters
@@ -48,10 +74,9 @@ Every bullet type has next to some special ability (Think of incendiary) also a 
 - Increased accuracy (+4) when on.
 - Increased enemy awareness (+4) when on.
 ## Flashlights
-- Ability to see better in the dark.
-- Can be used to stun
-- Increased enemy awareness (+2) when on
-- Increased enemy awareness (+4) when on in the dark (doesn't stack with above)
+- See [[Flashlight]]
+## Range Finder:
+- Increases accuracy (+2) at 75+ meters
 ## Vertical grip:
 - Decreased accuracy (-2)
 - Decreases Sleight of Hand (-2)

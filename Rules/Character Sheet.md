@@ -20,17 +20,20 @@
 > Initially a character has 30 skill points. Which can be spent however the player wishes.
 > The maximum amount of skill points is 60 amassed over 30th levels.
 
-- Strength: 0
-- Dexterity: 0
-- Intelligence: 0
-- Wisdom: 0
-- Charisma: 0
+- Strength: 6
+- Dexterity: 6
+- Intelligence: 6
+- Wisdom: 6
+- Charisma: 6
 
 ## Gear
 > Contains the following set of items:
 
 - Starter primary, with basic attachment.
 - Starter secondary
+- Starter [[Vest, Belts and Pouches]]
+- Starter [[Backpacks]]
+- Starter [[Armor Plates]]
 
 ## Stats
 > Perks are defined by the DM before the game. Please do not fill them out on your own.

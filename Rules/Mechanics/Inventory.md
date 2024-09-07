@@ -9,7 +9,7 @@ Next to that, common pouches still exists.
 Every item has it's own weight, and each character a carrying capacity.
 
 Carrying capacity is calculated using the following formula:
-```20 + strength * 10```
+```40 + strength * 4```
 
 ## Volume
 The volume which a character can carry is based on the characters equipment.
