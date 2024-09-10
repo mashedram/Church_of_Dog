@@ -18,7 +18,7 @@ Personality:
 ## Backstory:
 He was originally created in [[LAB-03]] as a result of the attempted reconstruction of a human body (prototype for [[PROJECT-INFUSION]]), and was split off after it has done it's purpose. The machine however to do this process, was kept around. And morphed into another project.
 
-Said project, developed separately but under guidance of [[Mash]], was made in an attempt to make a sort of "Immortal soldier" by allowing a mind to jump to a new body upon death.
+Said project, developed separately but under guidance of [[Fate]], was made in an attempt to make a sort of "Immortal soldier" by allowing a mind to jump to a new body upon death.
 
 The project failed however, seeing that existing minds could not be transferred into the project, but a synthetically saved one could however.
 
@@ -60,7 +60,7 @@ Total weight: 23kg
 ## Stats
 Speed: 33
 Health: 105
-Carrying capacity: 60kg
+Carrying capacity: 44kg
 
 Perks:
 - Is capable of spending four extra skill points every life, which decreases by one per death. Once he has died four times, he's out for the match.

@@ -2,4 +2,6 @@ TODO: A bioengineering research facility focussed on enhancements in the human b
 
 The place where [[PROJECT-INFUSION]] originated from (and is still developed in). Also the housing of [[THREAT]]
 
+Build in: 6 ACY after [[Church of Dog Assasination]]
+
 Lab Director: \[CLASIFIED]

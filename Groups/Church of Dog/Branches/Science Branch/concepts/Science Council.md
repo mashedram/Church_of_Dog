@@ -4,7 +4,7 @@ Each member of the council is at almost all times leading a project of their own
 
 Current Members:
 - [[Ariah Marlyn Grey]]
-- [[Mash]]
+- [[Fate]]
 - \[CLASIFIED]
 - \[CLASIFIED]
 - \[CLASIFIED]

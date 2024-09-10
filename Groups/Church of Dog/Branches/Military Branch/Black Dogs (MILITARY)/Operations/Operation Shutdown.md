@@ -1,0 +1,1 @@
+TODO: A joint op of the [[Military Branch]] lead by [[Black Dogs]] in 13 ACY. A successful attempt at taking down a hidden [[The Rat Association (TRA)]] science laboratory containing about fifty [[Church of Dog]] personnel and members as test subjects.
