@@ -1,5 +1,5 @@
 Weight: 0.5kg
-Volume: 4 
+Volume: 5 
 
 # Basic types:
 ## Frag grenade

@@ -22,3 +22,4 @@ Backpacks extend your carrying capacity, in exchange for reduced accessibility.
 - Weight: 2kg
 - Does not use a turn to grab items from.
 - Cuts medical item weight and volume in half
+- Allows medkit usage in combat.

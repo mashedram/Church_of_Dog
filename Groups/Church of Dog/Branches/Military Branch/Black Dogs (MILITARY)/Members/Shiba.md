@@ -24,9 +24,16 @@ He forged his own weapon: A revolver nicknamed "Judgment" chambered in 500 S&W M
 In 17 ACY, he took command of the [[Black Dogs]] from [[164xx]], due to [[Operation-False Prophet]] aftermath and turned the [[Black Dogs]] into a partial PMC to fund the [[Church of Dog]]s expansion into the mainland.
 
 These days every one would say he is colder than when he was 'Born', due to the fact he want every one to be on there best behavior, every one close to him would tell you under his stone cold heart is a man ready to die for his brothers. Unless you ask [[Rose]], due to theirs never ending 'conflict' they will never say anything positive about each other, Shiba claims it all started when she run into him and refuse to say sorry till this day. Yet Shiba don't trust no once else if he needs a medical attention.
+## Special Items:
+His revolver:
+- Guaranteed to kill a prone hostile lower than 25% HP
+- Up to 6 rounds can go loos into a magazine pouch
+- 
 ## ROLE: 
 - Leader
 - Point man, death dose not scare him rather amuse, sometimes this carelessness will lead into unnecessary dangerous circumstances 
+- Pen 12
+- One bullet an action
 
 ## NOTES/TRIVIA:
 - Is the first of the [[Demi-Dogs]]
@@ -42,26 +49,28 @@ These days every one would say he is colder than when he was 'Born', due to the 
 # DND
 ## Skills:
 
-- Strength: 6
-- Dexterity: 6
-- Intelligence: 6
+- Strength: 9
+- Dexterity: 4
+- Intelligence: 4
 - Wisdom: 6
-- Charisma: 6
+- Charisma: 7
 
 ## Gear
+ - Assault Rifle + Medium Magnification, Laser 
+ - Revolver "Judgment" 
+ - Heavy vest + mag pouch x3.
+ - Front heavy Back medium 
+ - Belt: 1 mag pouch (whatever will hold more revolver ammo), grenade pouch x3 
+ - Medium backpack
 
-- Starter primary, with basic attachment.
-- Starter secondary
-- Starter [[Vest, Belts and Pouches]]
-- Starter [[Backpacks]]
-- Starter [[Armor Plates]]
-
+Total weight: 30kg
 ## Stats
 > Perks are defined by the DM before the game. Please do not fill them out on your own.
 
-Speed: 25 + bonus + dexterity * 2
-Health: 75 + bonus + strength * 5
+Speed: 33
+Health: 115
+Carrying weight: 56kg
 
 Perks:
-- His red-glowing eyes gives him a guaranteed intimidation factor on people with a DC lower than his strength stat
+- His red-glowing eyes gives him a boost to his intimidation, allowing him to add his strength as a bonus when rolling for intimidation.
 - These same eyes, however, can cause him to completely tunnel vision onto the target in his mind, automatically failing perception checks from all other sources.

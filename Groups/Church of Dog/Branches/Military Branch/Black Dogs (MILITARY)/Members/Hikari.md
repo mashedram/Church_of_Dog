@@ -46,4 +46,6 @@ Health: 125
 Carrying capacity: 36kg
 
 Perks:
+- Lucks gambit: For every dodge and perception roll you do, you may roll two dice simultaneously and pick the highest one.
+- Complex machinery: Every roll done towards melee attacks, you may roll two dice simultaneously and pick the lowest one.
 - Cannot see depth (-2 accuracy at 50+ meters unless using a rangefinder) 
