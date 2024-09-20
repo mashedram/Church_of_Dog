@@ -42,7 +42,7 @@ Fate continued experimenting with biological mutations and adaptations for a whi
 
 Unable to finish their final years in biochemistry at their university, seeing as the world got taken by storm by [[Malphoros]] killing [[Seraphos]]. This takeover, however, gave up a multitude of new chances. As the [[Anomalies]] made by [[Malphoros]] gave Fate a formidable job in the [[Country of YES]] two years later, who seemed to hire whomever wished to help them with their research.
 
-Fate quickly became accustomed, and was even the first to be able to artificially synthesise simple anomalies leading a small team of his two closest friends, one of them being [[164xx]], who grew interest in his project, giving him the funding he needed to accomplish most goals, the other being [[Ariah Marlyn Grey]], who's research into the extraction of DNA from anomalies made it possible to synthesize them in the first place, seeing that their cellular structure is quite different to the ones found in most animals.
+Fate quickly became accustomed, and was even the first to be able to artificially synthesise simple anomalies leading a small team of his two closest friends, one of them being [[164xx]], who grew interest in his project, giving him the funding he needed to accomplish most goals, the other being [[Avery]], who's research into the extraction of DNA from anomalies made it possible to synthesize them in the first place, seeing that their cellular structure is quite different to the ones found in most animals.
 
 They adopted one of children ([[Kira]]) fleeing from the mainland to [[Country of YES]] after [[The Seraphos Extermination]], taking her in as Fate's own.
 
@@ -58,7 +58,7 @@ In 13 ACY Fate was reunited with their daughter [[Kira]], who didn't remember th
 
 Fate made their own bionic arm that extended into some of their internal organs. Acting as a form of life-support, while also allowing Fate to change their own genome on a whim. Giving them shape-shifting like abilities and stopping Fate's aging at the age of 37 (15 ACY).
 
-During this time, a friend of him got into a deadly explosion and was saved by Fate using an experimental technique to turn normal people into [[Demi-Dogs]], which was successful with minor side-effects.
+During this time, a friend of him got into a deadly explosion and was saved by Fate using an experimental technique to turn normal people into [[Demi-Dogs]]. Which was successful with minor side-effects.
 
 Currently actively working on [[THREAT]] with a small team of two other scientists in [[LAB-03]].
 ## Gear:

@@ -85,3 +85,10 @@ Volume: 30
 - Deploying and undeploying takes half your movement distance that turn.
 - If no wall is nearby, requires proning.
 - Increased accuracy (+6) when equipped.
+
+
+# Damage
+The damage formula for weaponry is:
+`max((damage_roll - 5) * weapon_penetration, 0)/max(20 - accuracy, 1)`
+
+This formula doesn't nerf the shit out of a heavy weapon, but also makes most weapons not one-shot kill.
