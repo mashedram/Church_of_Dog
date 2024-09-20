@@ -12,12 +12,12 @@ Rank: #CDL5
 Researcher ID: 1912
 
 Primary Project: [[THREAT]]
-Secondary Projects: [[PROJECT-INFUSION]]
+Secondary Projects: [[Project "Infusion"]]
 
 ## Characteristics:
 Fate is mostly quiet individual. Preferring to spend time diving into their research over communicating, although given the chance, will ramble for hours over his current and past research projects.
 
-Non-Binary/Genderflux
+Non-Binary/Genderfluid
 
 Fate's age is unimportant, seeing that their modifiable genomes allow for reversing and accelerating their age to any they wish. 
 
@@ -27,10 +27,10 @@ Fate modifies their personality within their genes to act more to their preferre
 
 They have the following three they use more consistently, the latter most often:
 - An athletic, adult male, 190 cm in height. Has blond hair and grey eyes.
-  The personality in this form is focussed and targeted, but has some sense of the wishes of others (basically Fate before the arm)
+  The personality in this form is focused and targeted, but has some sense of the wishes of others (basically Fate before the arm)
 - An adult female 32 year old, 174 cm in height. Has white hair and yellow eyes with a slit pupil (snake-ish). 
   Although still caring, they become more cold and apathetic in this shape.
-- A ambiguous figure, standing 180 cm's tall. They have long, white hair. Yellow eyes and a very light coloured skin. 
+- A ambiguous figure, standing 180 cm's tall. They have long, white hair. Yellow eyes and a very light colored skin. 
 
 Almost always wears a white lab coat.
 ## Backstory:
@@ -46,15 +46,16 @@ Fate quickly became accustomed, and was even the first to be able to artificiall
 
 They adopted one of children ([[Kira]]) fleeing from the mainland to [[Country of YES]] after [[The Seraphos Extermination]], taking her in as Fate's own.
 
-This scientific breakthrough allowed them to quickly climb to the top of the ranks within [[Church of Dog]], creating bioweapons and biological entities supporting agriculture, construction and other branches. Although his contributions were somewhat smaller and he managed these projects more. This came as a consequence of [[Kira]] having heavily burned skin he prioritised making a substitute for, making the first fully biological synthetic skin replacement.
+This scientific breakthrough allowed them to quickly climb to the top of the ranks within [[Church of Dog]], creating bio-weapons and biological entities supporting agriculture, construction and other branches. Although his contributions were somewhat smaller and he managed these projects more. This came as a consequence of [[Kira]] having heavily burned skin he prioritized making a substitute for, making the first fully biological synthetic skin replacement.
 
-After becoming a member of the [[Science Council]] in 4 ACY, Fate focussed his attention to integrating modern technologies with the biological body. Creating the first fully functioning prosthetic body parts, like: legs, arms and even organs with a team of scientists. His motivations came after seeing how much [[Kira]]'s new skin helped her, not wanting others to save that fate.
+After becoming a member of the [[Science Council]] in 4 ACY, Fate focused his attention to integrating modern technologies with the biological body. Creating the first fully functioning prosthetic body parts, like: legs, arms and even organs with a team of scientists. His motivations came after seeing how much [[Kira]]'s new skin helped her, not wanting others to save that fate.
 
-During the [[Church of Dog Assasination]], Fate's daughter got kidnapped and he was almost killed. Among the fact that most of the [[Council of Dog]] was killed. He started his project in the soon to be finished [[LAB-03]] he requested to start [[PROJECT-INFUSION]], which was granted and was completed with success in 12 ACY.
+During the [[Church of Dog Assasination]], Fate's daughter got kidnapped and he was almost killed. Among the fact that most of the [[Council of Dog]] was killed. He started his project in the soon to be finished [[LAB-03]] he requested to start [[Project "Infusion"]], which was granted and was completed with success in 12 ACY.
 
-After [[PROJECT-INFUSION]] was completed, and the definition of a perfect humanoid was made, Fate noticed the failure on their own flesh, and got hooked on improving the human genome. After being refused a test subject by the [[Council of Dog]], Fate took it upon himself and experimented upon their own genome. Causing Fate to get quite sick in 13 ACY.
+TODO: in 12 ACY the facility was already found, but they lacked the manpower to perform a raid.
+After [[Project "Infusion"]] was completed, and the definition of a perfect humanoid was made, Fate noticed the failure on their own flesh, and got hooked on improving the human genome. After being refused a test subject by the [[Council of Dog]], Fate took it upon himself and experimented upon their own genome. Causing Fate to get quite sick in 13 ACY.
 
-In 13 ACY Fate was reunited with their daughter [[Kira]], who didn't remember them, and was even scared of them due to the injected memories. Fate then focussed on rehabilitating her and came quite far. Reversing most of the negative effects of the genetic manipulation and bringing back most of her memories. Reverse engineering of the [[Amnestics]] found in the raid showed that it made new pathways for memories or locked them away, they were never removed. 
+In 13 ACY Fate was reunited with their daughter [[Kira]], who didn't remember them, and was even scared of them due to the injected memories. Fate then focused on rehabilitating her and came quite far. Reversing most of the negative effects of the genetic manipulation and bringing back most of her memories. Reverse engineering of the [[Amnestics]] found in the raid showed that it made new pathways for memories or locked them away, they were never removed. 
 
 Fate made their own bionic arm that extended into some of their internal organs. Acting as a form of life-support, while also allowing Fate to change their own genome on a whim. Giving them shape-shifting like abilities and stopping Fate's aging at the age of 37 (15 ACY).
 
