@@ -1,8 +1,17 @@
 ## Formal Data:
-> Think of companies, relations, ranks, etc.
+Name: Avery Grey
+Age:  35
+Physical Appearance: 
+- Black hair, often tied in a ponytail
+- Brown eyes
+
+Member of: [[Church of Dog]]
+Position: [[Science Council]] Member
+Rank: #CDL5 
+Researcher ID: 1875
 
 ## Characteristics:
-> Basically how your character looks, acts, etc.
+Nonbinary transfem
 
 ## Backstory:
 > The backstory behind your character, as detailed as possible to avoid future retconning.
