@@ -20,7 +20,7 @@ She received an artificial skin transplant in 3 ACY.
 
 During the bring your child to work day in 6 ACY, a raid was performed by the [[The Rat Association (TRA)]] upon the lab, where she was kidnapped.
 
- She was forced to become a test subject to whatever the [[The Rat Association (TRA)]] could come up with. She was used to develop an [[Amnestics]], along a whole other set of kidnapped [[Church of Dog]] personnel and other civilians. She was also used for a whole other set of experiments, like the attempted counter by the [[The Rat Association (TRA)]] against the [[PROJECT-INFUSION]], which has remained uncompleted till this day.
+ She was forced to become a test subject to whatever the [[The Rat Association (TRA)]] could come up with. She was used to develop an [[Amnestics]], along a whole other set of kidnapped [[Church of Dog]] personnel and other civilians. She was also used for a whole other set of experiments, like the attempted counter by the [[The Rat Association (TRA)]] against the [[Project "Infusion"]], which has remained uncompleted till this day.
 
 These scientific experiments included:
 - Wiping her memory repeatedly
@@ -29,7 +29,7 @@ These scientific experiments included:
 - Modifying her DNA
 - Modifying her personality and mind
 
-She was found and rescued in 13 ACY during [[Operation Shutdown]], and was put into a high-care private facility by [[Fate]], who she didn't remember, and her artificial memories even told her they were dangerous. These memories were regained after [[Fate]] treated her for a year. Where she slowly started to question her own memories seeing how [[Fate]] cared for her relative to her memories. Which allowed the medical treatment to work in the first place.
+She was found and rescued in 13 ACY during [[Operation Shutdown]], and was put into a high-care private facility by [[Fate]], who she didn't remember, and her artificial memories even told her they were dangerous. These memories were regained after [[Fate]] treated her for a year. Where she slowly started to question her own memories seeing how [[Fate]] cared for her relative to her memories. Which allowed the medical treatment to work in the first place. Some things (devil-like horns) were kept, seeing that they did not pose a health risk and were even denoted to be liked by Kira herself.
 
 Her parent became quite distant for a year after that, being gone a lot and seemingly not having time for her. [[Fate]] was focussing on his own illness though, that would soon kill him without a solution. This was understandable for [[Kira]], but was still a hard thing to accept.
 
