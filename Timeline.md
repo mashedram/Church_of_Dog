@@ -8,10 +8,10 @@
  0 ACY: [[Church of Dog]] had been formed by the remaining 10 [[Sachred Dogs]] surviving the war.
  6 ACY: 7 out of the 10 [[Sachred Dogs]] were assassinated by the [[Old NeKo Republic]] on order of the [[Malphoros]]
  6 ACY: [[Dogs]] fought [[Malphoros]] through proxy of the [[Cats]] in the [[NeKo-Dogian War]] as revenge, but came to peace due to [[Cats]] wishing to be free from the [[Malphoros]], the [[New NeKo Republic]] being the result.
- 9 ACY: [[Project "Infusion"]] was started
+ 9 ACY: [[Project Infusion]] was started
  11 ACY: [[164xx]] got caught in a fire, burning the right side of his face.
- 12 ACY: The first [[Demi-Dogs]] has been made in the lab of [[Project "Infusion"]], [[Shiba]] was the result
- 17 ACY: [[164xx]] got into an explosion blast and became a [[Demi-Dogs]] due to experimental treatment produced by [[Project "Infusion"]]
+ 12 ACY: The first [[Demi-Dogs]] has been made in the lab of [[Project Infusion]], [[Shiba]] was the result
+ 17 ACY: [[164xx]] got into an explosion blast and became a [[Demi-Dogs]] due to experimental treatment produced by [[Project Infusion]]
  18 ACY: [[Shiba]] takes over the [[Black Dogs]] from [[164xx]]
  
  21 ACY: Current timeline.

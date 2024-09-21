@@ -1,1 +1,1 @@
-The [[Red Right Paw]] was set up after the [[]]
+The [[Red Right Paw]] was set up after the [[Church of Dog Assassination]]

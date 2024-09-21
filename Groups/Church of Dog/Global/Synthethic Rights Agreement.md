@@ -1,1 +1,0 @@
-TODO: [[Country of YES]] wide agreement that every human, dog, or any other entity, synthethic or not, deserved the same equal rights.

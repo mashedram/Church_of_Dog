@@ -20,7 +20,7 @@ She received an artificial skin transplant in 3 ACY.
 
 During the bring your child to work day in 6 ACY, a raid was performed by the [[The Rat Association (TRA)]] upon the lab, where she was kidnapped.
 
- She was forced to become a test subject to whatever the [[The Rat Association (TRA)]] could come up with. She was used to develop an [[Amnestics]], along a whole other set of kidnapped [[Church of Dog]] personnel and other civilians. She was also used for a whole other set of experiments, like the attempted counter by the [[The Rat Association (TRA)]] against the [[Project "Infusion"]], which has remained uncompleted till this day.
+ She was forced to become a test subject to whatever the [[The Rat Association (TRA)]] could come up with. She was used to develop an [[Amnestics]], along a whole other set of kidnapped [[Church of Dog]] personnel and other civilians. She was also used for a whole other set of experiments, like the attempted counter by the [[The Rat Association (TRA)]] against the [[Project Infusion]], which has remained uncompleted till this day.
 
 These scientific experiments included:
 - Wiping her memory repeatedly

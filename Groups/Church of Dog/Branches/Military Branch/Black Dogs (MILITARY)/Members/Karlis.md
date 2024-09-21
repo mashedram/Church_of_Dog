@@ -16,7 +16,7 @@ Personality:
 - Mentally unstable
 - Bipolar disorder
 ## Backstory:
-He was originally created in [[LAB-03]] as a result of the attempted reconstruction of a human body (prototype for [[Project "Infusion"]]), and was split off after it has done it's purpose. The machine however to do this process, was kept around. And morphed into another project.
+He was originally created in [[LAB-03]] as a result of the attempted reconstruction of a human body (prototype for [[Project Infusion]]), and was split off after it has done it's purpose. The machine however to do this process, was kept around. And morphed into another project.
 
 Said project, developed separately but under guidance of [[Fate]], was made in an attempt to make a sort of "Immortal soldier" by allowing a mind to jump to a new body upon death.
 
