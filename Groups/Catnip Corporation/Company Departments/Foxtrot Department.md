@@ -1,1 +1,0 @@
-The [[Foxtrot Department]] is a department of the [[Catnip Corporation]] that serves as an elite recce unit specializing in espionage, interrogation, and assassination.

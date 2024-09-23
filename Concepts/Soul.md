@@ -1,0 +1,2 @@
+A [[Soul]] references to the mind of a conscious person inside a body.
+These [[Soul]]'s are more of a reference for lore to hook into, as they do not have anything to do with moving onto the afterlife, if there even is one. It's primary purpose is to reference to a person capable of human-level though or above.

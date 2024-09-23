@@ -60,7 +60,6 @@ Total weight: 23kg
 ## Stats
 Speed: 33
 Health: 105
-Carrying capacity: 44kg
 
 Perks:
 - Is capable of spending four extra skill points every life, which decreases by one per death. Once he has died four times, he's out for the match.

@@ -1,27 +1,11 @@
+## Formal Data:
+Name: Lucy Sebastian
+Age: 24
 
-## Species
-### UNKNOWN
-
-Lucy is part of an ancient species called \[CLASIFIED]. This species lived way before the first [[Godhood|God]] existed and contained a lot of strange and anomalous entities and objects. Lucy, back then, fell into an interdimensional rift and got stuck in time during the birth of [[Godhood]]. This caused her memories to go funky and the rest of her species to be wiped out, or to end up in the same state as she used to be.
-### KNOWN
-
-The species anatomy seems to be similar to a human, with some major differences:
-- The skin is fully white
-- The ears appear more in line with a feline. Unlike the popular media item called: "Catgirls", the ears are not on top of the head, and instead seem to be attached where you would expect normal human ears to be.
-- The iris glows, the only known color being purple.
-- Large canines.
-
-The species seems to have other traits to:
-- Preference to nonverbal communication, although capable of speech.
-- Heightened senses in the aspects of: Smell, touch and hearing. These senitivities can work in the species favour, but they also have a relatively low pain tolerance and brittle skin.
-- Heightened abilities of perception and intuition. This includes the ability to quickly learn and copy others, often seen in: Learning languages, usage of tools and other skills.
-- Improved acrobatic abilities when not unencumbered. 
-
-The species has trouble with mass in our world, however, and seems to need to exert twice the amount of effort to lift the same amount of weight, and thus tiring out far more easily. All (currently one) members of this species are issued special exoskeletons to help with their day to day lives.
-
-Although the species has some cat-like features, they do not represent cats in their behaviour, coming closer to a humanoid with a tint of nonverbal wolf behaviour.
-
-### ## Backstory
+Member of: [[Church of Dog]]
+Position: Leader of [[Squad 0]]
+Clearance: #CDL4 
+### Backstory
 
 Suddenly appearing in 8 ACY out of the collapse of a cross-dimensional rift in 8 ACY during [[Project Infusion]]. Panicking heavily due to her sudden new scenery, or better yet, lack of the known old one. Combine this with the fact that nobody was understandable and everything was extremely bright. She knocked herself out by stumbling over one of the many cables and hitting her head into the glass of the Replicator chamber.
 
@@ -36,7 +20,7 @@ Although [[Fate]] was often more busy with their research on [[Project Infusion]
 
 After about a year, she got quite proficient in fitting in with the modern lifestyle and showed great interest in acrobatics and combat related tasks. Often practicing with makeshift puppets of hostiles. [[Fate]], having a three month break at the time due to the long construction period of the new Replicator Unit, decided to dedicate some time into developing an exoskeleton for [[Lucy]]. She gave a lot of feedback during the development process, the end result being a slim, flexible but still strong piece of machinery that enhances her capabilities without being limiting in other sections.
 
-She joined the recruitment program for the [[Red Right Paw]], and succeeded with flying colours.
+She joined the recruitment program for the [[Red Right Paw]] in 11 ACY, and succeeded with flying colours.
 TODO
 
 # DND
