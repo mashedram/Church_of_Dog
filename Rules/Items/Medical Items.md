@@ -18,5 +18,5 @@
 - Volume: 14
 - Uses: 5
 - Can only be used on someone else.
-- Applies professional medical aid (removes most negative status effects.)
+- One use heals one injury.
 
