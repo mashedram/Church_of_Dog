@@ -1,6 +1,6 @@
 ## Formal Data:
 Name: Avery \[CLASSIFIED]
-Age: 24
+Age: 28
 
 Member of: [[Church of Dog]]
 Position: Member of [[Squad 0]]
