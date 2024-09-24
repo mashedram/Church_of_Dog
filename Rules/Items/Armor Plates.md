@@ -12,14 +12,14 @@ If the bullet penetrates through the defence, the armor takes 20% of the damage 
 ## Light plate
 - Defence: 8
 - Hp: 150
-- Plate weight: 5kg
+- Plate weight: 2kg
 ## Medium plate
 - Defence: 11
 - Hp: 200
-- Plate weight: 10kg
+- Plate weight: 4kg
 - Reduced dexterity (-1)
 ## Heavy plate
 - Defence: 14
 - Hp: 300
-- Plate weight: 15kg
+- Plate weight: 8kg
 - Reduced dexterity (-2)

@@ -8,52 +8,17 @@ Position: [[Black Dogs]]
 Rank: #CDL3 
 
 ## Characteristics:
-Arrogant hardass. 
+**Features:** Smooth Synthetic skin, Caucasian, Light grey eyes, dark hair, average muscular build, No facial features, Scar the right side of the neck.
 
-## Backstory:
-Born out of the single and last prototype of [[Project Replicator]].
-
-## Gear:
-> Think of weapons, items, etc.
-
-## Trivia:
-- Once ran into a house full of hostiles holding onto two primed [[T-50 Grenades]] for, and I quote: "Shits and giggles."
-  The bodies were not recognisable afterwards, so we did not know which corpse belong to who. 
-- Constantly fights with [[Shiba]] because of his God Complex
-
-## Skills:
-> Skills have a base set of points (15), these can be spend on whatever and even be trained/upgraded during later points of a campaign/playthrough.
-> The max amount of obtainable skill points is 40, however: The player can take points from another skill (making it go negative, up to -10 in total) to upgrade other skills.
-> An induvial skill cannot go above 10 points.
-
-
-- Strength: 0
-- Dexterity: 0
-- Intelligence: 0
-- Wisdom: 0 // Life experience
-- Charisma: 0
-
-- CQB (MELEE): 0 // Proficiency in melee (Strength boost damage output of this)
-- CQB (FIREARMS): 0
-- MID RANGE (FIREARMS): 0
-- LONG RANGE (FIREARMS): 0
-	// Any firearms skill goes to a total "hidden" skill for firearms. Giving the user better control of their weapon in all situations.
-
-- TECHNICAL: 0 // More orientated towards engineering of traps and vehicles.
-
-- SPECIALISATION // A skill chosen by the creator of the character, allowing for a more unique team composition. Automatically ten points and used where applicable.
----
-# BACKSTORY
-NOTES:
+Personality:
 - Fearless
 - Is very arrogant
 - Mentally unstable
 - Bipolar disorder
+## Backstory:
+He was originally created in [[LAB-03]] as a result of the attempted reconstruction of a human body (prototype for [[Project "Infusion"]]), and was split off after it has done it's purpose. The machine however to do this process, was kept around. And morphed into another project.
 
-TODO:
-He was originally created in [[LAB-03]] as a result of the attempted reconstruction of a human body (prototype for [[PROJECT-INFUSION]]), and was split off after it has done it's purpose. The machine however to do this process, was kept around. And morphed into another project.
-
-Said project, developed separately but under guidance of [[Mash]], was made in an attempt to make a sort of "Immortal soldier" by allowing a mind to jump to a new body upon death.
+Said project, developed separately but under guidance of [[Fate]], was made in an attempt to make a sort of "Immortal soldier" by allowing a mind to jump to a new body upon death.
 
 The project failed however, seeing that existing minds could not be transferred into the project, but a synthetically saved one could however.
 
@@ -66,5 +31,37 @@ A save of the mind gets made every hour, as long as their is a wireless connecti
 A downside of this system however, is that the body never truly feels like it belongs to the mind inhabiting it. Causing effects like existential dread and body dysmorphia.
 
 The prototype is also unfortunately quite unstable, and causes the body of the user to be practically entirely different every single time. Although most key features, like; gender, age and physique, etc. Smaller features, like; hair color, eye color, minor skin tone differences and sizes of body parts can differ from time to time.
+## Special Items:
+- \[\[REDACTED]
 
-Moral dilemma for RP would be: If you transfer the mind, do you transfer the Soul?
+## Trivia:
+- Once ran into a house full of hostiles holding onto two primed [[T-50 Grenades]] for, and I quote: "Shits and giggles."
+  The bodies were not recognisable afterwards, so we did not know which corpse belong to who. 
+- Constantly fights with [[Shiba]] because of his God Complex
+
+# DND
+## Skills:
+- Strength: 6
+- Dexterity: 4
+- Intelligence: 5
+- Wisdom: 10
+- Charisma: 5
+
+## Gear
+- **HK416-X3** (Short Barrel, Medium Calibre, No magnification sight. Laser/Flashlight device, Horizontal grip)
+- **Glock 18 Z/C** (Flashlight, No magnification sight.)
+- Medium vest, four magazines, one generic
+- Belt: one magazine, two grenades
+- Medium backpack
+- Medium plate (front, back)
+
+Total weight: 23kg
+
+## Stats
+Speed: 33
+Health: 105
+Carrying capacity: 44kg
+
+Perks:
+- Is capable of spending four extra skill points every life, which decreases by one per death. Once he has died four times, he's out for the match.
+- A random skill (rolled by dice) will take a negative hit relative to the amount of extra skill points he can spend that life.
