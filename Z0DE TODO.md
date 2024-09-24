@@ -10,7 +10,7 @@ Anomalies:
 Species:
 - [[Godhood]]: Make it make more sense, and note how it came to be.
 - [[Corvice]]: Finish the species
-- [[Ratlings]]: Finish the species
+- [[Ratling]]: Finish the species
 - Give all of the species stats
 
 World:
@@ -18,9 +18,9 @@ World:
 - Make a general continent layout.
 
 Characters:
-- [[Claire]]: Finish her character
-- [[Lucy]]: Finish her character
 - [[Avery]]: Finish her character
+- [[Lucy]]: Finish her character
+- [[Siara]]: Finish her character
 
 DND:
 - Class system

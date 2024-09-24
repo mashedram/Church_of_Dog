@@ -1,4 +1,4 @@
-Half [[Dogs]] Half [[Humans]], these (NOT FURRY), by definition, demi-gods have all sorts of abilities.
+Half [[Dogs]] Half [[Human]], these (NOT FURRY), by definition, demi-gods have all sorts of abilities.
 They have been created by infusing humans with the blood of the [[Sachred Dogs]]
 
 Some characteristics:
@@ -10,8 +10,12 @@ Some characteristics:
 - Scared of bees genetically
 
 # DND
-- Strength: +5
-- Heals 50% of their missing hp every turn an action is not used.
+- Strength: +100% bonus on rolls
+- Health: +20%
+- Heals 30% of their missing hp every turn an action is not used, rounded up to tens.
 - Medical status effects cannot last for longer than two turns.
 - Cannot die to medical conditions.
-- Unable to use medical items.
+- Stealth: -60%
+
+### HALFBREED
+- Takes the terms of [[Demi-Dog]], but halved

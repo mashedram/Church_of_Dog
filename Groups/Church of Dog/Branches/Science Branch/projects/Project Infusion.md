@@ -1,4 +1,4 @@
-[[Project Infusion]] was an attempt at creating [[Demi-Dogs]] from the blood of [[Sachred Dogs]].
+[[Project Infusion]] was an attempt at creating [[Demi-Dog]] from the blood of [[Sachred Dogs]].
 
 Head engineer and project lead: [[Fate]]
 
