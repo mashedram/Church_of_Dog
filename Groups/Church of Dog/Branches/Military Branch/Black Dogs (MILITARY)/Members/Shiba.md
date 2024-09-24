@@ -43,20 +43,19 @@ These days every one would say he is colder than when he was 'Born', due to the 
 ## ------------------DND------------------
 
 ### EQ
-Ak-103 (aka heavy caliber high recoil)
+Assault Rifle + Medium Magnification, Laser, 
+Revolver "Judgment"
+Heavy vest + mag pouch x3. Front heavy Back medium 
+Belt + 1 generic pouch/1mag pouch (whatever will hold more revolver ammo), granade pouch x3
+Medium backpack
 
 ### Stats
-- Strength: 6+2
-- Dexterity: 2+2
-- Intelligence: 2+2
-- Wisdom: 5+2 // Life experience
-- Charisma: 0+2
+- Strength: 9
+- Dexterity: 4
+- Intelligence: 4
+- Wisdom: 6
+- Charisma: 7
 
-- CQB (MELEE): 6+2 // Proficiency in melee (Strength boost damage output of this)
-- CQB (FIREARMS): 2+2
-- MID RANGE (FIREARMS): 4+2
-- LONG RANGE (FIREARMS): 1+2
-- TECHNICAL: 2+2 
 ### Perks
 Godhood, Seraphos gift : +2 all thats
 
