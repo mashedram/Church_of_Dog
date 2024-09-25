@@ -47,7 +47,6 @@ His revolver:
 
 # DND
 ## Skills:
-
 - Strength: 9
 - Dexterity: 4
 - Intelligence: 4
@@ -62,10 +61,7 @@ His revolver:
  - Belt: 1 mag pouch (whatever will hold more revolver ammo), grenade pouch x3 
  - Medium backpack
 
-Total weight: 30kg
 ## Stats
-> Perks are defined by the DM before the game. Please do not fill them out on your own.
-
 Speed: 33
 Health: 115
 Carrying weight: 56kg

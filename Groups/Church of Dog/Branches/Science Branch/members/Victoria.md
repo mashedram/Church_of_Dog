@@ -1,0 +1,19 @@
+## Formal Data:
+
+Name: Victoria Kowalska
+Age: 22
+Physical Appearance: Brown long strait hair, soft face, very feminine body
+
+Member of: [[Church of Dog]]
+Position: Attending Physician
+Rank: #CDL3 
+
+## Characteristics:
+"No one dies unless i fucking let him die" is her motto while she is on the floor. Giving 110% every shift no mater how long or hard it is. Absolute gamer in her free time and a heavy drinker. She got realistic approach to every situation she will find herself in.
+
+## Backstory:
+From the young age Victoria was interested in human biology, in her teenage days that interest turn into passion to help others. Her father being a soldier that openly talk about what he saw and did, only insure her in the fact of becoming a doctor. When mercenaries started to move into theirs area she volunteer in hospitals to ensure more qualify doctors can assist the soldiers. Once on her walk she spotted a wounded soldier, she had some medical supplies with her (due to semi active war time in her city, studding medicine and volunteering and the hospital) and without second thought she went to help him with out realizing he was an enemy. By the time she figured out who the soldier was, she saw that the mercs where not these inhuman, blood thirsty monsters news and her father said. After few days of care, only thing left by the soldier saw a note saying "I m grateful for your care, but its time for me to go. Here, its our common radio frequency, do what you will with it". She started to look deeper into the whose situation, one night while doing some research she got caught, by no one else but her father and his unit. She wanted to explain every think to him, try to make him the truth, but he knew all along, with his gun drew he ask that she surrenders as this was bigger than all of them. Right before he fired, [[Doberman Intelligent]]-s units arrived, she knew that she cant keep looking into this situation without raising red flags and made a chose to 'betray' her people as now she see past the propaganda and redacted information. 
+
+After arriving back to the Church Of Dog HQ, it took a while for her to get use to the reality, as well as people accepting a new medic that used to be an enemy, she tried her best to be nice and kind to all so they finally accept her. The turning point was her confrontation with CPT. 'CLASSIFIED', he was a know asshole giving all personnel hard time, when he was getting stitch, he keep throwing offensives comments at Victoria, he was expecting her like other nurses to just take it but she was having none of that and stabbed him with a needle in a place that would cause a lot of pain but no wounds or problems and said with winter cold attitude "You have two options, shut your mouth and let me finish or do it yourself". After that she was officially accepted into the group and given her current nickname 'Rose' , she might be beautiful but she is also sharp if you mess around. 
+
+She quickly became one of the best Doctors we ever had and her attitude and knowledge made her perfect fit for harder situations, like taking care of [[Black Dogs]] after they return form theirs missions. She became 'designated' [[Black Dogs]] medic when they come back to base, she used to be assigned to them so often she now is specialize in reading then and what help they need as due to their egos is sometimes hard to ensure what help do they need, but not for her. Now all medical personnel know to take over whatever she was doing the moment they hear a call in any way connected to [[Black Dogs]]. All medical staff and patients are happy with her performance and enjoy her pleasant personality, unless you ask [[Shiba]], due to theirs never ending 'conflict' they will never say anything positive about each other, Rose claims it all started when he run into her and refuse to say sorry till this day. Yet Rose do every think do be the one taking care of [[Shiba]]s wounds if needed.
