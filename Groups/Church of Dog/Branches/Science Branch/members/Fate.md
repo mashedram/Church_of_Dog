@@ -5,6 +5,7 @@ Physical Appearance: See Backstory
 
 Relations:
 - Adopted daughter: [[Kira]]
+- Adopted daughter: [[Lucy]]
 
 Member of: [[Church of Dog]]
 Position: [[Science Council]] Member and Project Lead

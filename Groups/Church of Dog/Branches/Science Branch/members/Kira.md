@@ -4,7 +4,11 @@ Age: See Backstory
 Physical Appearance: See Backstory
 
 Relations:
-- Adoptive parent: [[Kira]]
+- Adoptive parent: [[Fate]]
+- Adoptive sister: [[Lucy]]
+- Best friend: [[Avery]]
+- Good friends: [[Kite]]
+- Good friends: [[Ethan]]
 
 Member of: [[Church of Dog]]
 Position: Project Lead [[Cyara]]

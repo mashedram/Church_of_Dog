@@ -1,0 +1,1 @@
+TODO: Old squad of [[Lucy]]

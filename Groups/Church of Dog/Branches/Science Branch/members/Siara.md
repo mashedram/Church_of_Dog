@@ -1,5 +1,5 @@
 ## Formal Data:
-Name: SiaraGrey
+Name: Siara Grey
 Age:  35
 Physical Appearance: 
 - Black hair, often tied in a ponytail
