@@ -1,7 +1,5 @@
-Is very strong, but not unkillable.
-Not Omni sent, nor Omnipowerful.
-No, world doesn't collapse when God dies, his power goes too the one who kills him.
+Godhood is a power granted upon one [[Soul]] at a time. This [[Soul]] can do whatever they wish to, they may create, or destroy under the condition that they can see what they are doing.
 
-Current god is not the original god which made [[Dogs]], that one got killed by this God.
+Once a [[Soul]] obtains [[Godhood]], it is incapable of true death. When the body is killed, and [[Godhood]] is transferred, the [[Soul]] keeps existing in a damaged state.
 
-Current God took Ice Cream away.
+It originally came to be during the [[Singularity Collapse]], where everything in existence folded together to form the current universe.

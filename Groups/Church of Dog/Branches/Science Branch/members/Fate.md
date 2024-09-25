@@ -5,6 +5,7 @@ Physical Appearance: See Backstory
 
 Relations:
 - Adopted daughter: [[Kira]]
+- Adopted daughter: [[Lucy]]
 
 Member of: [[Church of Dog]]
 Position: [[Science Council]] Member and Project Lead
@@ -12,7 +13,7 @@ Rank: #CDL5
 Researcher ID: 1912
 
 Primary Project: [[THREAT]]
-Secondary Projects: [[Project "Infusion"]]
+Secondary Projects: [[Project Infusion]]
 
 ## Characteristics:
 Fate is mostly quiet individual. Preferring to spend time diving into their research over communicating, although given the chance, will ramble for hours over his current and past research projects.
@@ -42,7 +43,7 @@ Fate continued experimenting with biological mutations and adaptations for a whi
 
 Unable to finish their final years in biochemistry at their university, seeing as the world got taken by storm by [[Malphoros]] killing [[Seraphos]]. This takeover, however, gave up a multitude of new chances. As the [[Anomalies]] made by [[Malphoros]] gave Fate a formidable job in the [[Country of YES]] two years later, who seemed to hire whomever wished to help them with their research.
 
-Fate quickly became accustomed, and was even the first to be able to artificially synthesise simple anomalies leading a small team of his two closest friends, one of them being [[164xx]], who grew interest in his project, giving him the funding he needed to accomplish most goals, the other being [[Avery]], who's research into the extraction of DNA from anomalies made it possible to synthesize them in the first place, seeing that their cellular structure is quite different to the ones found in most animals.
+Fate quickly became accustomed, and was even the first to be able to artificially synthesise simple anomalies leading a small team of his two closest friends, one of them being [[164xx]], who grew interest in his project, giving him the funding he needed to accomplish most goals, the other being [[Siara]], who's research into the extraction of DNA from anomalies made it possible to synthesize them in the first place, seeing that their cellular structure is quite different to the ones found in most animals.
 
 They adopted one of children ([[Kira]]) fleeing from the mainland to [[Country of YES]] after [[The Seraphos Extermination]], taking her in as Fate's own.
 
@@ -50,16 +51,16 @@ This scientific breakthrough allowed them to quickly climb to the top of the ran
 
 After becoming a member of the [[Science Council]] in 4 ACY, Fate focused his attention to integrating modern technologies with the biological body. Creating the first fully functioning prosthetic body parts, like: legs, arms and even organs with a team of scientists. His motivations came after seeing how much [[Kira]]'s new skin helped her, not wanting others to save that fate.
 
-During the [[Church of Dog Assasination]], Fate's daughter got kidnapped and he was almost killed. Among the fact that most of the [[Council of Dog]] was killed. He started his project in the soon to be finished [[LAB-03]] he requested to start [[Project "Infusion"]], which was granted and was completed with success in 12 ACY.
+During the [[Church of Dog Assassination]], Fate's daughter got kidnapped and he was almost killed. Among the fact that most of the [[Council of Dog]] was killed. He started his project in the soon to be finished [[LAB-03]] he requested to start [[Project Infusion]], which was granted and was completed with success in 12 ACY.
 
 TODO: in 12 ACY the facility was already found, but they lacked the manpower to perform a raid.
-After [[Project "Infusion"]] was completed, and the definition of a perfect humanoid was made, Fate noticed the failure on their own flesh, and got hooked on improving the human genome. After being refused a test subject by the [[Council of Dog]], Fate took it upon himself and experimented upon their own genome. Causing Fate to get quite sick in 13 ACY.
+After [[Project Infusion]] was completed, and the definition of a perfect humanoid was made, Fate noticed the failure on their own flesh, and got hooked on improving the human genome. After being refused a test subject by the [[Council of Dog]], Fate took it upon himself and experimented upon their own genome. Causing Fate to get quite sick in 13 ACY.
 
 In 13 ACY Fate was reunited with their daughter [[Kira]], who didn't remember them, and was even scared of them due to the injected memories. Fate then focused on rehabilitating her and came quite far. Reversing most of the negative effects of the genetic manipulation and bringing back most of her memories. Reverse engineering of the [[Amnestics]] found in the raid showed that it made new pathways for memories or locked them away, they were never removed. 
 
 Fate made their own bionic arm that extended into some of their internal organs. Acting as a form of life-support, while also allowing Fate to change their own genome on a whim. Giving them shape-shifting like abilities and stopping Fate's aging at the age of 37 (15 ACY).
 
-During this time, a friend of him got into a deadly explosion and was saved by Fate using an experimental technique to turn normal people into [[Demi-Dogs]]. Which was successful with minor side-effects.
+During this time, a friend of him got into a deadly explosion and was saved by Fate using an experimental technique to turn normal people into [[Demi-Dog]]. Which was successful with minor side-effects.
 
 Currently actively working on [[THREAT]] with a small team of two other scientists in [[LAB-03]].
 ## Gear:

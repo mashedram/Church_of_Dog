@@ -1,1 +1,0 @@
-Made up of 13 members these people are the ones that control all the company's actions.
