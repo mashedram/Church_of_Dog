@@ -42,7 +42,7 @@ They were eventually found, but not by [[The Rat Association (TRA)]]. Instead, a
 
 After a bunch of questioning and lengthy procedures, they were allowed to stay within the [[Country of YES]] fugitive centres until they got their citizenship. 
 
-During their time there, they were often outcast due to their strange physique and non-conforming behaviour. In 12 ACY, [[Avery]] stumbled upon [[Lucy]], who was spending some of her free time doing work in the fugitive centres. They became quite good friends during this period.
+During their time there, they were often outcast due to their strange physique and non-conforming behaviour. In 12 ACY, [[Avery]] stumbled upon [[Lucy]], who was spending some of her free time doing work in the fugitive centers. They became quite good friends during this period.
 
 From 14 ACY to 15 ACY, she often helped [[Lucy]] care for [[Kira]], and accompanied during the absence of [[Lucy]]'s parent, who was too busy with his own health. Even though she had not yet obtained her citizenship, she was allowed to leave the refugee centre under guidance by [[Lucy]].
 
@@ -53,3 +53,8 @@ Initially, she was rejected. Her combative abilities and skills were up to the n
 She climbed through the ranks within the next couple years, until in 19 ACY, when she got an invite handed to her by [[Lucy]] for the [[Squad 7]] she was forming, accepting it without much thought.
 
 She is now in active duty.
+## Special Items:
+- An engraved long sword, made from steel.
+- A engraved Remington 1911-A
+
+## Trivia:
