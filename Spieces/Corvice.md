@@ -6,6 +6,7 @@
 - Legs shaped like the back legs of cats, transitioning at the top of the thigh to human legs.
 - Large canine teeth.
 - Claw-like nails.
+- They bleed black blood.
 
 Their ability to fly can be easily compromised by adding extra weight onto their bodies, compromising their means of flight.
 
