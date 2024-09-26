@@ -6,7 +6,7 @@ The [[Nginx]] lived way before the first [[Godhood|God]] existed, in a time that
 
 The species anatomy seems to be similar to a human, with some major differences:
 - The skin is fully white, but can be toned darker to hide away at will.
-- The ears appear more in line with a feline. Unlike the popular media item called: "Catgirls", the ears are not on top of the head, and instead seem to be attached where you would expect normal human ears to be.
+- The ears appear more in line with a wolf. Unlike the popular media item called: "Catgirls", the ears are not on top of the head, and instead seem to be attached where you would expect normal human ears to be.
 - The iris glows.
 - Large canines.
 

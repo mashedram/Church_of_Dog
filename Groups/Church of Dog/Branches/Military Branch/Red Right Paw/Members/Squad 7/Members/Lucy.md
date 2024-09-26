@@ -1,6 +1,6 @@
 ## Formal Data:
 Name: Lucy Sebastian
-Age: 24
+Age: 29
 
 Relations:
 - Adoptive parent: [[Fate]]
@@ -31,7 +31,7 @@ After about two hours of shoving herself into the corner of her bed, scuddling a
 
 Seeing the fact that she broke the glass of their only Replicator Unit for [[Project Infusion]], said researcher visited her for a couple hours a day; taking the time to teach her the basics of the spoken language among other things. They became quite close during this period of time, often playing video games as well.
 
-When she was released from the hospital, she was given the old room of [[Kira]], who was unbeknownst to her, missing for two years now. [[Fate]] rejected at least a dozen request by a multitude of high-ranking [[Science Branch]] members to perform research on [[Lucy]]. (This was before the [[Synthetic Rights Agreement]], resulting in her having no rights at the time, nor was she in a state to understand what was meant with the "research" planned on her.)
+When she was released from the hospital, she was given the old room of [[Kira]], who was unbeknown to her, missing for two years now. [[Fate]] rejected at least a dozen request by a multitude of high-ranking [[Science Branch]] members to perform research on [[Lucy]]. (This was before the [[Synthetic Rights Agreement]], resulting in her having no rights at the time, nor was she in a state to understand what was meant with the "research" planned on her.)
 
 Although [[Fate]] was often more busy with their research on [[Project Infusion]], they still made effort to teach [[Lucy]] a good amount of knowledge in their free time. [[Lucy]] even called [[Fate]] "Dad" from time to time, which brought them delight.
 
