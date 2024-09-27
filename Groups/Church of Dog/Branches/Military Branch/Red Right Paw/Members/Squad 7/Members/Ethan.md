@@ -18,9 +18,9 @@ Species: [[Demi-Dog]]
 
 Male, 192 cm's in height. He has short, brown hair and a stubble. His eyes are like any [[Demi-Dog]]. He has a scar over his left eye.
 
-He wears a a dark brown trench-coat, combined with a white shirt, a set of jeans and black boots.
+He wears a a dark brown trench-coat, under which he has a white shirt, a set of jeans and black boots.
 
-Personality wise, he's stubborn and brave. Never thinking twice about jumping in front of his friends to safe them.
+Personality wise, he's stubborn and brave. Never thinking twice about jumping in front of his friends to safe them. He might be a bit emotionally empty, like most [[Demi-Dog]]s, but he has his heart in the right place.
 # Backstory
 [[Ethan]] was brought upon this world, being the result of another successful test of [[Project Infusion]] in 15 ACY. The [[Science Branch]], having learned their lessons, gave him the correct tutoring and schooling he needed to become a normal functioning human, and allowed him to join the military in 16 ACY.
 

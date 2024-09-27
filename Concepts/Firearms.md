@@ -1,1 +1,0 @@
-First developed by the [[Human]] and advanced on by the [[Cats]]. A firearm is a portable gun that fires lead or steel projectiles to a target, using a powder propellant.

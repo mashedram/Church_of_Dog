@@ -15,13 +15,13 @@ Clearance: #CDL4
 ## Characteristics:
 Species: [[Nginx]]
 
-Female, 182 cm's in height. She has beige hair reaching to her shoulders, of which she has painted the tips pink. She often wears her hair in a ponytail of sorts. Her eyes are a pink hue.
+Female, 182 cm's in height. She has beige hair reaching to about a quarter of her back. She has painted the tips pink. She often wears her hair in a ponytail of sorts. Her eyes are a pink hue.
 
 She has a sleeve tattoo of roses all over her right arm. Looking like [[Lucy-Tattoo.jpg]], but the roses are the same color as her eyes instead.
 
-She wears the standard set of shirt and pants provided to all [[Red Right Paw]] operatives of her rank, but rolls up her right sleeve to just above her elbow to show off the sleave. Next to this, she wears a sturdy set of boots.
+In-combat, she wears a special suit that allows her to use her exoskeleton with better effect. Outside of it, she often wears colourful clothes, to contrast her skin.
 
-Personality wise, she takes her job quite serious, but misses no opportunity to do so in style. She even has a set of sunglasses on her at all time to play the act. 
+Personality wise, she takes her job quite serious, but misses no opportunity to do so in style. She even has a set of sunglasses on her at all time to play the act. She's bubbly, but often prefers to go non-verbal over talking.
 ### Backstory
 
 Suddenly appearing in 8 ACY out of the collapse of a cross-dimensional rift in 8 ACY during [[Project Infusion]]. Panicking heavily due to her sudden new scenery, or better yet, lack of the known old one. Combine this with the fact that nobody was understandable and everything was extremely bright. She knocked herself out by stumbling over one of the many cables and hitting her head into the glass of the Replicator chamber.

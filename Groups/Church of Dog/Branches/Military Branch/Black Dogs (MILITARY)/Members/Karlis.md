@@ -8,6 +8,8 @@ Position: [[Black Dogs]]
 Rank: #CDL3 
 
 ## Characteristics:
+Species: [[Replicant]]
+
 **Features:** Smooth Synthetic skin, Caucasian, Light grey eyes, dark hair, average muscular build, No facial features, Scar the right side of the neck.
 
 Personality:

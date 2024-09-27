@@ -19,15 +19,15 @@ Clearance: #CDL3
 ## Characteristics:
 Species: [[Corvice]]
 
-Female, 176 cm's in height. Her skin is darker in tone and she has brown hair and black irises. Her wings are brown with white feathers. Her tail is also brown with a white tip. The fur on her legs is brown.
+Female, 176 cm's in height. Her skin is darker in tone, her hair is brown to, styled in a wolf cut. Her wings are black white feathers, her tail following the same pattern, where it's black with a white tip.
 
-She has pierced her right ear; both the top and earlobe with silver piercings.
+She has pierced her right ear; both the top and earlobe with gold piercings. She also wears two golden rings on her right hand.
 
 Her clothing consists of: A turtleneck leotard, combined with a long-sleeved combat shirt on top. She refuses to wear anything not covering her arms and neck, as she does not wish to show her scars.
 
 She doesn't wear pants, due to finding the fabric irritating in contact with the skin. The bone structure of said legs not allowing for an easy fitting as well. Same goes for boots.
 
-Personality wise, she's a mischievous and silly little goober. Often pulling pranks on her friends or making jokes. Next to this, she often plays around with her enemies when she's in an advantage, which may lead to her losing said advantage.
+Personality wise, she's a mischievous and silly little goober. Often pulling pranks on her friends or making jokes. Next to this, she often plays around with her enemies when she's in an advantage, which may lead to her losing said advantage. This is a trait taken by her father, who's practically a god of mischief.
 ## Backstory
 [[Avery]] was originally artificially made on 14 ACY along 3 other [[Corvice]], their names unknown.
 Directly thrown into the [[The Rat Association (TRA)]] to serve, not knowing any better, she did so. Being part of a multitude of raids on various different [[Catnip Corporation]] and [[Church of Dog]] assets.
@@ -54,7 +54,12 @@ She climbed through the ranks within the next couple years, until in 19 ACY, whe
 
 She is now in active duty.
 ## Special Items:
-- An engraved long sword, made from steel.
-- A engraved Remington 1911-A
-
+- An gold-engraved long sword, made from steel.
+- A gold-engraved Remington 1911-A
+- A notebook, containing the following:
+-  - Random doodles
+-  - A list of her torturers, with striped through names for the dead.
+-  - A inconsistently written journal, with a lot of jumps and cuts.
 ## Trivia:
+- Has occasional night terrors and panic attacks related to her past.
+- Loves to play pranks on [[Lucy]]'s parent ([[Fate]])
