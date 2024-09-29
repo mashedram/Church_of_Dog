@@ -13,6 +13,7 @@ Member of: [[Church of Dog]]
 Position: Member of [[Squad 7]]
 Clearance: #CDL3 
 
+Sexuality: Aromantic Heterosexual
 ## Characteristics:
 Species: [[Demi-Dog]]
 

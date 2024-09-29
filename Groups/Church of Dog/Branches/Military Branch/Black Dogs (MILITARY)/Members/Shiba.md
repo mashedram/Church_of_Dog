@@ -46,12 +46,13 @@ His revolver:
 - Has light driving sickness making him drowsy/sleepy
 
 # DND
+level: 7
 ## Skills:
-- Strength: 9
-- Dexterity: 4
-- Intelligence: 4
-- Wisdom: 6
-- Charisma: 7
+- Strength: 11
+- Dexterity: 6
+- Intelligence: 5
+- Wisdom: 7
+- Charisma: 8
 
 ## Gear
  - Assault Rifle + Medium Magnification, Laser 

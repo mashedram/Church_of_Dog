@@ -1,0 +1,1 @@
+Guy that uses masks to materialize a body, he's a shadowy smoke other times

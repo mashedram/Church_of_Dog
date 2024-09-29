@@ -10,6 +10,7 @@ Position: [[Science Council]] Member
 Rank: #CDL5 
 Researcher ID: 1875
 
+Sexuality: Asexual
 ## Characteristics:
 Nonbinary transfem
 

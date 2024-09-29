@@ -80,7 +80,7 @@ Volume: 30
 ## Vertical grip:
 - Decreased accuracy (-2)
 - Decreases Sleight of Hand (-2)
-- Allows moving half of the remaining speed that turn after firing.
+- Allows an additional attack.
 ## Bipod:
 - Deploying and undeploying takes half your movement distance that turn.
 - If no wall is nearby, requires proning.

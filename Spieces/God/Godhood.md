@@ -3,3 +3,5 @@ Godhood is a power granted upon one [[Soul]] at a time. This [[Soul]] can do wha
 Once a [[Soul]] obtains [[Godhood]], it is incapable of true death. When the body is killed, and [[Godhood]] is transferred, the [[Soul]] keeps existing in a damaged state.
 
 It originally came to be during the [[Singularity Collapse]], where everything in existence folded together to form the current universe.
+
+Gods can be differentiated by the fact that they always have wings, independent of what form they appear within.

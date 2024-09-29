@@ -39,12 +39,14 @@ The prototype is also unfortunately quite unstable, and causes the body of the u
 ## Trivia:
 - Once ran into a house full of hostiles holding onto two primed [[T-50 Grenades]] for, and I quote: "Shits and giggles."
   The bodies were not recognisable afterwards, so we did not know which corpse belong to who. 
-- Constantly fights with [[Shiba]] because of his God Complex
+- Constantly fights with [[Shiba]] because of his God Complex.
+- Has a transporter build into his chamber to bring him back after his death.
 
 # DND
+level: 7
 ## Skills:
 - Strength: 6
-- Dexterity: 4
+- Dexterity: 11
 - Intelligence: 5
 - Wisdom: 10
 - Charisma: 5

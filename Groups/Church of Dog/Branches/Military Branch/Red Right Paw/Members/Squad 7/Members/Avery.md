@@ -16,6 +16,7 @@ Member of: [[Church of Dog]]
 Position: Member of [[Squad 7]]
 Clearance: #CDL3 
 
+Sexuality: lesbian
 ## Characteristics:
 Species: [[Corvice]]
 
