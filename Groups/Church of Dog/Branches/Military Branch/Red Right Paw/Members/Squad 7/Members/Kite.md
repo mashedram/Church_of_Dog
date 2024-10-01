@@ -15,11 +15,12 @@ Sexuality: Bisexual
 ## Characteristics:
 Species: [[Human]] ([[HV-361]])
 
-Male, 186 cm's in height. He has red, curly hair and green irises. He wears the standard combative uniform in the field, but prefers a green flannel out of combat. He wears black jeans and a set of brown boots most of the time.
+Male, 186 cm's in height. He has red, curly hair and gray irises. He wears the standard combative uniform in the field, but prefers a black shirt or hoodie out of combat. He's often seen wearing a set of jeans and black boots.
 
 His right arm is made out of a masterfully crafted wooden arm, inlaid with four emeralds. ([[HV-361]])
 
 Personality wise, he's a reserved and caring individual, but can become quite talkative in an environment he trusts, like being among friends. He's calm and collected, and avoids irrational discissions at all costs, this came to be after his addiction.
+![[Kite.png]]
 # Backstory
 \[CLASSIFIED]
 

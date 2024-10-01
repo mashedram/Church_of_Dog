@@ -5,10 +5,9 @@ The [[Nginx]] lived way before the first [[Godhood|God]] existed, in a time that
 ### KNOWN
 
 The species anatomy seems to be similar to a human, with some major differences:
-- The skin is fully white, but can be toned darker to hide away at will.
-- The ears appear more in line with a wolf. Unlike the popular media item called: "Catgirls", the ears are not on top of the head, and instead seem to be attached where you would expect normal human ears to be.
-- The iris glows.
-- Large canines.
+- The skin is fully white.
+- The iris glows, and the iris is a slit.
+- Shark-like teeth
 
 The species seems to have other traits to:
 - Preference to nonverbal communication, although capable of speech.
@@ -24,9 +23,9 @@ Although the species has some cat-like features, they do not represent cats in t
 First sighted in 8 ACY as [[Lucy]].
 
 # DND
-- Strength: 2x on any debuffs applied to strength checks.
+- Strength checks are doubled in DC.
 - Not affected by perception debuffs in dark environments.
-- Perception check: +100%
+- Perception: +100%
 - Stealth in dark environments: +100%
 - Stealth in light environments: -100%
 - Acrobatics and Sleight of Hand: +100%

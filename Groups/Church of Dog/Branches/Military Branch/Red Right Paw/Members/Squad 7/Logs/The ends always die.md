@@ -18,10 +18,11 @@ She fakes her swing, dropping her blade right before the metal collides. The two
 
 The grunt spins around quicker than she expects, and swings at her again. Her blade currently being out of her range, she grabs onto the machete with her bare hands.
 
-It cuts straight into her palms, but stops once it hits bone. It hurts, of course it does, but she's not showing it. Just giving that familiar, practiced smile. Black blood starts dripping down her palms onto the floor.
+It cuts straight into her palms, but stops once it hits bone. It hurts, of course it does, but she's not showing it. Just giving her foes that familiar, practiced smile. Black blood starts dripping down her palms onto the floor.
 
 She can practically smell the fear coming of the walking corpse in front of her. Despite the pain, she rips the machete out of the hand of the grunt, it's grip loose enough to do so. The surprise on the grunts face as she flicks the machete up in the air, catching the handle in her palms before throwing the bladed weapon straight into the head of her adversary.
 
-The three threats now dealt with, she takes a moment to recoup herself. Her right hand tingles, the cuts only being slight scarring tissue now. Benefits of being the child of a god, she guesses.
+The dull noise coming from the heated body was the last source of audio before the room falls silence. The rest of her team upstairs, distracting whomever they find. Being alone is, oddly alienating to her, it's been a while since the echo's from
+
 
 

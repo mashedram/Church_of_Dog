@@ -15,13 +15,17 @@ Clearance: #CDL4
 ## Characteristics:
 Species: [[Nginx]]
 
-Female, 182 cm's in height. She has beige hair reaching to about a quarter of her back. She has painted the tips pink. She often wears her hair in a ponytail of sorts. Her eyes are a pink hue.
+Female, 182 cm's in height. She has black hair reaching to about a quarter of her back. She has painted it partially purple. She often wears her hair in a ponytail of sorts. Her eyes are a magenta hue.
 
-She has a sleeve tattoo of roses all over her right arm. Looking like [[Lucy-Tattoo.jpg]], but the roses are the same color as her eyes instead.
+She has a sleeve tattoo of roses all over her right arm, reaching up to her neck. The color similar to her eyes.
+
+The scar on the right side of her face is of unknown origin, and was there before she first became part of this world.
 
 In-combat, she wears a special suit that allows her to use her exoskeleton with better effect. Outside of it, she often wears colourful clothes, to contrast her skin.
 
 Personality wise, she takes her job quite serious, but misses no opportunity to do so in style. She even has a set of sunglasses on her at all time to play the act. She's bubbly, but often prefers to go non-verbal over talking.
+![[Groups/Church of Dog/Branches/Military Branch/Red Right Paw/Members/Squad 7/Members/images/Lucy.png]]
+![[LucyNoJacket.png]]
 ### Backstory
 
 Suddenly appearing in 8 ACY out of the collapse of a cross-dimensional rift in 8 ACY during [[Project Infusion]]. Panicking heavily due to her sudden new scenery, or better yet, lack of the known old one. Combine this with the fact that nobody was understandable and everything was extremely bright. She knocked herself out by stumbling over one of the many cables and hitting her head into the glass of the Replicator chamber.
@@ -52,17 +56,7 @@ Instead of keeping it there, she followed through, getting permission to create 
 
 She's been in active duty since.
 
-# DND
-## Skills:
-- Strength: 4
-- Dexterity: 8
-- Intelligence: 7
-- Wisdom: 8
-- Charisma: 3
-
-## Gear
-
-
-## Stats
-Speed: 56
-Health: 75
+# Trivia
+- Likes to make tattoos in her free time, has drawn most of [[Avery]]'s tattoos.
+### Notes:
+- Picrews used: https://picrew.me/en/image_maker/1532707

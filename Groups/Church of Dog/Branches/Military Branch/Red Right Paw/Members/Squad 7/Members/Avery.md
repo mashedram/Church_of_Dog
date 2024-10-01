@@ -20,15 +20,15 @@ Sexuality: lesbian
 ## Characteristics:
 Species: [[Corvice]]
 
-Female, 176 cm's in height. Her skin is darker in tone, her hair is brown to, styled in a wolf cut. Her wings are black white feathers, her tail following the same pattern, where it's black with a white tip.
+Female, 176 cm's in height. She has white hain and pure black eyes. Her wings are black white feathers, her tail following the same pattern, where it's black with a white tip.
 
-She has pierced her right ear; both the top and earlobe with gold piercings. She also wears two golden rings on her right hand.
+She has pierced her left ear; both the top and earlobe with black piercings. She also wears two black rings on her right hand.
 
-Her clothing consists of: A turtleneck leotard, combined with a long-sleeved combat shirt on top. She refuses to wear anything not covering her arms and neck, as she does not wish to show her scars.
-
-She doesn't wear pants, due to finding the fabric irritating in contact with the skin. The bone structure of said legs not allowing for an easy fitting as well. Same goes for boots.
+She refuses to wear anything that does not cover her neck and arms, due to the scarring tissue present on those parts. She has put a lot of tattoos over her body, done by: [[Lucy]].
 
 Personality wise, she's a mischievous and silly little goober. Often pulling pranks on her friends or making jokes. Next to this, she often plays around with her enemies when she's in an advantage, which may lead to her losing said advantage. This is a trait taken by her father, who's practically a god of mischief.
+
+![[Avery.png]]
 ## Backstory
 [[Avery]] was originally artificially made on 14 ACY along 3 other [[Corvice]], their names unknown.
 Directly thrown into the [[The Rat Association (TRA)]] to serve, not knowing any better, she did so. Being part of a multitude of raids on various different [[Catnip Corporation]] and [[Church of Dog]] assets.
@@ -64,3 +64,7 @@ She is now in active duty.
 ## Trivia:
 - Has occasional night terrors and panic attacks related to her past.
 - Loves to play pranks on [[Lucy]]'s parent ([[Fate]])
+
+
+### Notes:
+- Picrews used: https://picrew.me/en/image_maker/2375585

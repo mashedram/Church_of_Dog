@@ -3,8 +3,7 @@
 [[Corvice]] are a humanoid species, with a few extra traits, including:
 - Wings, coming in a variety of colours.
 - A long, sleek tail.
-- Legs shaped like the back legs of cats, transitioning at the top of the thigh to human legs.
-- Shark like teeth.
+- Carnivore teeth.
 - Claw-like nails.
 - They bleed black blood.
 - The iris is black, and the pupil is normally to small to be visible. During moments of high stress, or excitement, they may enlarge, filling the center of the eye with a white pupil.
