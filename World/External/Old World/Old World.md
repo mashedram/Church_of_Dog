@@ -1,0 +1,1 @@
+Although the [[Old World]] is described as one, it's actually a combination of hundreds of individual worlds, aligned by one common plane of travel.
