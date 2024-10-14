@@ -6,6 +6,8 @@
  1 BCY: [[Dogs]] fought [[Malphoros]] in war, but lost.
  0 ACY: [[Malphoros]] made [[Country of YES]] and banished [[Dogs]]. 
  0 ACY: [[Church of Dog]] had been formed by the remaining 10 [[Sachred Dogs]] surviving the war.
+ 2 ACY: [[The Seraphos Extermination]]
+ 2 ACY: [[Catnip Corporation]] was formed
  6 ACY: 7 out of the 10 [[Sachred Dogs]] were assassinated by the [[The Rat Association (TRA)]] on order of the [[Malphoros]]
  6 ACY: [[Project Infusion]] was started
  11 ACY: [[164xx]] got caught in a fire, burning the right side of his face.

@@ -15,16 +15,15 @@ Sexuality: Bisexual
 ## Characteristics:
 Species: [[Human]] ([[HV-361]])
 
-Male, 186 cm's in height. He has red, curly hair and gray irises. He wears the standard combative uniform in the field, but prefers a black shirt or hoodie out of combat. He's often seen wearing a set of jeans and black boots.
+Male, 186 cm's in height. He has red, curly hair and blue eyes. He wears the standard combative uniform in the field, but prefers a black shirt or hoodie out of combat. He's often seen wearing a set of jeans and black boots.
 
 His right arm is made out of a masterfully crafted wooden arm, inlaid with four emeralds. ([[HV-361]])
 
 Personality wise, he's a reserved and caring individual, but can become quite talkative in an environment he trusts, like being among friends. He's calm and collected, and avoids irrational discissions at all costs, this came to be after his addiction.
-![[Kite.png]]
 # Backstory
 \[CLASSIFIED]
 
-[[Kite]]'s upbringing was unknown, he was part of one of the refuge centres after [[The Seraphos Extermination]]. Missing both his parents at the young age of thirteen.
+[[Kite]]'s upbringing was unknown, he was part of one of the refuge centres after [[The Seraphos Extermination]]. Missing both his parents at the age of thirteen.
 
 He was taken in to separate care after an unknown object was found upon him (later designated [[HV-361]]). It was initially missed due to the massive amounts of refugees fleeing to the [[Country of YES]].
 

@@ -40,6 +40,5 @@
 
 Speed: 25 + bonus + dexterity * 2
 Health: 75 + bonus + strength * 5
-Carrying weight: 20 + strength * 4
 
 Perks:

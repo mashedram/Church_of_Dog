@@ -16,6 +16,7 @@ Volume: 5
 - Reduced accuracy (-4) at 15+ meters
 - Increased Slight of Hand (+2)
 - Default penetration: 7
+- Damage: 2d6
 ### SMG
 Weight: 4kg
 Volume: 15
@@ -23,21 +24,25 @@ Volume: 15
 - Increased Slight of Hand (+2)
 - Can be equipped as a secondary, but removes the switch-bonus.
 - Default penetration: 7
+- Damage: 2d6 + 2
 ## Assault Rifles
 Weight: 5kg
 Volume: 20
 - Default, no buffs nor debuffs
 - Default penetration: 10
+- Damage: 2d8
 ## DMR
 Weight: 7kg
 Volume: 25
 - Increased accuracy (+2) at 100+ meters
 - Default penetration: 13
+- Damage: 3d8
 ### Tube-loaded Shotguns
 Weight: 6kg
 Volume: 25
 - Default penetration: 5
 - Can reload 2 shells during movement
+- Damage: d12
 ### Sniper Rifles
 Weight: 8kg
 Volume: 30
@@ -45,6 +50,7 @@ Volume: 30
 - Requires an Sleight of Hand check of 12 on quick movements
 - Cannot be used for CQB
 - Default penetration: 16
+- Damage: 2d12
 
 # Attachments:
 #BASIC
